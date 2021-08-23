@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/microblades.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-10-15T08:08:26-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4854560030798</id>
+    <published>2020-10-15T08:08:26-06:00</published>
+    <updated>2020-10-15T08:08:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/swann-and-morton-ss-handle-3"/>
+    <title>Swann and Morton SS Handle #3</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_7046.jpg?v=1602770906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4854560030798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4854558752846</id>
+    <published>2020-10-15T08:06:46-06:00</published>
+    <updated>2020-10-15T08:06:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/paragon-sterile-disposable-scalpel-10-ss-dermaplane"/>
+    <title>Paragon Sterile Disposable Scalpel #10 SS Dermaplane</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_5578.jpg?v=1602770806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4854558752846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/85672624134</id>
+    <published>2017-12-25T14:58:25-07:00</published>
+    <updated>2017-12-25T14:58:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/abm-828-mixing-spatula-17cm-id-8548"/>
+    <title>ABM 828 Mixing Spatula 17cm</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_1559.JPG?v=1527384826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">17cm stainless mixing spatula for mixing microblade pigment etc</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/85672624134</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>8548</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12078521734</id>
+    <published>2017-09-23T23:16:30-06:00</published>
+    <updated>2017-09-23T23:16:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/disposable-pigment-cup-12mm-1000pcs-id-8407"/>
+    <title>Disposable Pigment Cup 12mm 1000pcs</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4260.JPG?v=1527386334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1000pcs of disposable ink cups, 12mm in diameter.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12078521734</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>8407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12077147974</id>
+    <published>2017-09-23T21:09:56-06:00</published>
+    <updated>2017-09-23T21:09:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/color-for-the-lip-pigment"/>
+    <title>Master Lip Pigment</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4262.JPG?v=1506223191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1. Red Pepper</p>
+<p>2. Strawberry</p>
+<p>3. Plump Red</p>
+<p>4. Bright Red</p>
+<p>5. Pink</p>
+<p>6. Kiss Me</p>
+<p>7. Peach</p>
+<p>8. Bright Orange</p>
+<p>9. Magenta Mauve</p>
+<p>10. Rose Red</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12077147974</id>
+      <title>Red Pepper</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12077147974</id>
+      <title>Strawberry</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12077147974</id>
+      <title>Plump Red</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12077147974</id>
+      <title>Bright Red</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12077147974</id>
+      <title>Pink</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12077147974</id>
+      <title>Kiss Me</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12077147974</id>
+      <title>Peach</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12077147974</id>
+      <title>Bright Orange</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12077147974</id>
+      <title>Magenta Mauve</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12077147974</id>
+      <title>Rose Red</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688372998</id>
+    <published>2017-08-29T00:16:02-06:00</published>
+    <updated>2017-08-29T00:16:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/disposable-microblade-with-lot-and-expiry-date"/>
+    <title>Disposable Microblade with Lot and Expiry Date</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/Microbladepackage.jpg?v=1527386333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            0.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Professional microblades. Individually sealed and stamped with the lot number and expiry date. If you require more than 500pcs please contact us for a discount.</p>
+<p>Flex blades, plastic housing, 0.25mm thick.</p>
+<p>0.18 and 0.20 available for some sizes by special order.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372998</id>
+      <title>7CF</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku/>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372998</id>
+      <title>9CF</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku/>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372998</id>
+      <title>12CF</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku/>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372998</id>
+      <title>14CF</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku/>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372998</id>
+      <title>16CF</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku/>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372998</id>
+      <title>18CF</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku/>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372998</id>
+      <title>14U</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku/>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372998</id>
+      <title>16U</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku/>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372998</id>
+      <title>18U</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku/>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688372934</id>
+    <published>2017-08-29T00:15:58-06:00</published>
+    <updated>2017-08-29T00:15:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/disposable-microblade-pen"/>
+    <title>Disposable Microblade Pen</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/disppen_6384ca2d-a1dc-43a2-9b30-d70249b603a5.jpg?v=1527386332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disposable full pen. Fully sealed with lot and expiry date.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372934</id>
+      <title>12CF</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372934</id>
+      <title>14CF</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372934</id>
+      <title>14U</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372934</id>
+      <title>17</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372934</id>
+      <title>18</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372934</id>
+      <title>18U</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372934</id>
+      <title>7CF</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688372934</id>
+      <title>9CF</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

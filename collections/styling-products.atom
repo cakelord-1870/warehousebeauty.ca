@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/styling-products.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2021-08-18T11:46:26-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675618758</id>
+    <published>2021-08-18T11:46:26-06:00</published>
+    <updated>2021-08-18T11:46:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-hair-spray-extreme-500ml-id-3644"/>
+    <title>HD Life Style HAIR SPRAY EXTREME 500ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/HD_spray.jpg?v=1504329364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Extreme hold hairspray, gives control and volume to hair. <br> It leaves no residue.<br> <br> <strong>Directions: </strong><br> To shape, spray 8” (20 cm) from hair and comb. To finish, spray directly on the desired areas.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675618758</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.85</s:price>
+      <s:sku>3644</s:sku>
+      <s:grams>1080</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675652934</id>
+    <published>2020-10-11T10:51:17-06:00</published>
+    <updated>2020-10-11T10:51:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-2-phase-leave-in-conditioner-220ml-id-6111"/>
+    <title>HD Life Style 2 PHASE LEAVE IN-CONDITIONER 220ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/hdleaveincond.jpg?v=1504329348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Instant smooth nutritious leave-in conditioner for frizzy and unruly hair.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675652934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.85</s:price>
+      <s:sku>6111</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11692123014</id>
+    <published>2017-08-29T14:53:59-06:00</published>
+    <updated>2017-08-29T14:53:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/onely-leave-in-spray-mask-150ml-id-8386"/>
+    <title>ONELY LEAVE-IN SPRAY MASK 150ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/onelysmall.jpg?v=1504329428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>10 IN 1 ONELY LEAVE-IN SPRAY MASK provides 10 sublime benefits for stunning hair, with renewed shine, health and improved texture. </span><br><br><span>1. Deep nourishment for damaged hair </span><br><span>2. Frizz and “fly away” control </span><br><span>3. Thermal protection </span><br><span>4. Instant detangling for easy to comb hair </span><br><span>5. High shine </span><br><span>6. Hair color protection with UVA/ UVB filters </span><br><span>7. Silky smooth and soft hair </span><br><span>8. Split ends prevention </span><br><span>9. Adds volume and body </span><br><span>10. Pleasantly scented hair</span><br><br><br><strong>Directions:<span> </span></strong><br><span>spray directly over damp hair, do not rinse. Or, on dry hair, apply into the palm of the hand and distribute into hair lengths and ends. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11692123014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>8386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675651846</id>
+    <published>2017-08-27T08:51:45-06:00</published>
+    <updated>2017-08-27T08:51:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-crystal-drops-100ml-id-6105"/>
+    <title>HD Life Style CRYSTAL DROPS 100ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/crystaldrops.jpg?v=1504329352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For instant shine and softness, ideal for split ends.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675651846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku>6105</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675648582</id>
+    <published>2017-08-27T08:50:22-06:00</published>
+    <updated>2017-08-27T08:50:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-sea-mist-spray-220ml-id-6523"/>
+    <title>HD Life Style SEA MIST SPRAY 220ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/sxeamist.jpg?v=1504329369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Creates the perfect beach-hair look. Gives hair thickness and volume, while Panthenol and wheat proteins protect hair from drying.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675648582</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.15</s:price>
+      <s:sku>6523</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675644806</id>
+    <published>2017-08-27T08:47:57-06:00</published>
+    <updated>2017-08-27T08:47:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-vitamin-booster-shine-spray-220ml-id-6526"/>
+    <title>HD Life Style VITAMIN BOOSTER SHINE SPRAY 220ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/vitaminbooster.jpg?v=1504329382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Vitamin booster. Ultra light super shining effect spray that does not leave the hair oily or wet.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675644806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>6526</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675641542</id>
+    <published>2017-08-27T08:45:53-06:00</published>
+    <updated>2017-08-27T08:45:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-volumizing-spray-220ml-id-3655"/>
+    <title>HD Life Style VOLUMIZING SPRAY 220ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/220spray.jpg?v=1504329388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Provides volume and hold. Ideal for blow drying and setting.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675641542</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>3655</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675640262</id>
+    <published>2017-08-27T08:44:48-06:00</published>
+    <updated>2017-08-27T08:44:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-strong-fixing-gel-150ml-id-6107"/>
+    <title>HD Life Style STRONG FIXING GEL 150ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/stronggel.jpg?v=1504329379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Strong gel with UV filter and Panthenol to strengthen, nourish and protect the hair. Provides lasting control and hold.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675640262</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>6107</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675639110</id>
+    <published>2017-08-27T08:43:31-06:00</published>
+    <updated>2017-08-27T08:43:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-smooth-and-protect-spray-300ml-id-6524"/>
+    <title>HD Life Style SMOOTH and PROTECT SPRAY 300ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/lisssparkle.jpg?v=1504329373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Smooth and protect spray. It leaves hair silky smooth, soft, ultra shiny and it has an excellent anti-frizz and anti-static effect. <br> It protects hair from thermal damage caused by flat iron and blow dryer.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675639110</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>6524</s:sku>
+      <s:grams>245</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675637766</id>
+    <published>2017-08-27T08:42:29-06:00</published>
+    <updated>2017-08-27T08:42:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-conditioning-shaping-chantilly-200ml-id-6525"/>
+    <title>HD Life Style CONDITIONING &amp; SHAPING CHANTILLY 200ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/conditionshape.jpg?v=1504329350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Conditioning and shaping chantilly. Creates waves with smooth silky static-free style. <br> Defines curls, controls frizz and adds shine.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675637766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>6525</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675635654</id>
+    <published>2017-08-27T08:41:29-06:00</published>
+    <updated>2017-08-27T08:41:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-extra-strong-gel-spray-220ml-id-6110"/>
+    <title>HD Life Style EXTRA STRONG GEL SPRAY 220ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/hdlifespraygel.jpg?v=1504329359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gel spray. Extra strong hold, fast drying.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675635654</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>6110</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675632454</id>
+    <published>2017-08-27T08:38:59-06:00</published>
+    <updated>2017-08-27T08:38:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-wave-defining-fluid-150ml-id-6528"/>
+    <title>HD Life Style WAVE DEFINING FLUID 150ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/wavedefining.jpg?v=1504329390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A soft-textured fluid to create and enhance wavy hair.<br> Ideal for boosting volume and shine, defining curls and eliminating frizz.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675632454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.60</s:price>
+      <s:sku>6528</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675630662</id>
+    <published>2017-08-27T08:37:57-06:00</published>
+    <updated>2017-08-27T08:37:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-smoothing-leave-in-cream-150ml-id-6109"/>
+    <title>HD Life Style SMOOTHING LEAVE-IN CREAM 150ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/smoothinleavein.jpg?v=1504329377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Smoothing leave-in cream provides a long-lasting sleek effect, while lavender and Pro Vitamin B-5 provide nourishment and seductive shine. Ideal for heat styling.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675630662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>6109</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675625542</id>
+    <published>2017-08-27T08:35:13-06:00</published>
+    <updated>2017-08-27T08:35:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-extreme-fixing-gel-150ml-id-6108"/>
+    <title>HD Life Style EXTREME FIXING GEL 150ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/extremegel.jpg?v=1504329361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Extreme long-lasting gel, with UV filter and Panthenol to strengthen, nourish and protect the hair. Sculpts without leaving a sticky residue.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675625542</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>6108</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675622342</id>
+    <published>2017-08-27T08:34:11-06:00</published>
+    <updated>2017-08-27T08:34:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-pliable-moulding-cream-100ml-id-3654"/>
+    <title>HD Life Style PLIABLE MOULDING CREAM 100ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/pliablecream.jpg?v=1504329367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Moulding cream for flexible hold and texture. Matte effect.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675622342</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>3654</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675613446</id>
+    <published>2017-08-27T08:28:03-06:00</published>
+    <updated>2017-08-27T08:28:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/hd-life-style-volume-shine-mousse-300ml-id-3645"/>
+    <title>HD Life Style VOLUME &amp; SHINE MOUSSE 300ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/mousse1.jpg?v=1504329385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Volume &amp; shine mousse gives your hair extra volume and shine. Control and hold for all styles. <br> <br> <strong>How to use:</strong><br> apply a small amount to damp hair and blow-dry.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675613446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>3645</s:sku>
+      <s:grams>325</s:grams>
+    </s:variant>
+  </entry>
+</feed>

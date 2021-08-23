@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/pedicure.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2021-08-18T11:46:21-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674703238</id>
+    <published>2021-08-18T11:46:21-06:00</published>
+    <updated>2021-08-18T11:46:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/beauty-canada-spa-liner-122cm-200pcs-id-7729"/>
+    <title>Beauty Canada Spa Liner 122cm 200pcs</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/linerpicture.jpg?v=1527384887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beauty Canada Spa Liner 122cm 200pcs </p>
+<p>These are the large 122cm size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674703238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>7729</s:sku>
+      <s:grams>4450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4118379200590</id>
+    <published>2020-07-16T11:50:33-06:00</published>
+    <updated>2020-07-16T11:50:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/la-palm-volcano-spa-lavender-eruption"/>
+    <title>La Palm Volcano Spa Lavender Eruption</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/volav.jpg?v=1569002809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4118379200590</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4158949130318</id>
+    <published>2019-09-23T16:42:42-06:00</published>
+    <updated>2019-09-23T16:42:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/stainless-steel-metal-foot-file"/>
+    <title>Stainless Steel Metal Foot File</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/Stainless_Steel_Metal_Foot_File.jpg?v=1569279050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4158949130318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4158943297614</id>
+    <published>2019-09-23T16:42:42-06:00</published>
+    <updated>2019-09-23T16:42:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/croda-corn-cutter"/>
+    <title>Croda Corn Cutter</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/Croda_Corn_Cutter.jpg?v=1569278747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4158943297614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674861894</id>
+    <published>2019-07-02T12:20:34-06:00</published>
+    <updated>2019-07-02T12:20:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cacee-sugar-scrub-orange-1-gallon-id-6280"/>
+    <title>Cacee Sugar Scrub Orange 1 gallon</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cacee-sugar-scrub.jpg?v=1527386259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>An excellent oil and epsom salt based sugar scrub to leave skin revitalized.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674861894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>6280</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674730054</id>
+    <published>2018-05-20T15:38:59-06:00</published>
+    <updated>2018-05-20T15:38:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/la-palm-callus-remover-gallon-id-3807"/>
+    <title>La Palm Callus Remover Gallon</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/callusremovermintgallon.jpg?v=1504329494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>1 Gallon la palm callus remover</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674730054</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>3807</s:sku>
+      <s:grams>3685</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674825734</id>
+    <published>2018-04-02T12:35:00-06:00</published>
+    <updated>2018-04-02T12:35:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/sea-salt-2-blue-mint-1-gallon-id-3481"/>
+    <title>Sea Salt 2 Blue Mint 1 Gallon</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/spasalt2.jpg?v=1504329246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<b><span> </span></b>1 Gallon of blue mint spa salt, put a small scoop in the water of the pedicure tub.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674825734</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>3481</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1317815910478</id>
+    <published>2018-04-02T10:30:58-06:00</published>
+    <updated>2018-04-02T10:30:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/12-pairs-foam-slipper-sewn-1"/>
+    <title>12 Pairs Foam Slipper Sewn</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/slipper1.jpg?v=1527384763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.50 - 85.00
+            <a href="https://warehousebeauty.ca/products/12-pairs-foam-slipper-sewn-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>EVA disposable slippers, pre sewn. Mixed color.<br></span></p>
+<p><span>1 Bag=12 pairs</span></p>
+<p><span>1 Case=360 pairs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1317815910478</id>
+      <title>12 Pairs</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1317815910478</id>
+      <title>360 Pairs</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku>67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11679639238</id>
+    <published>2017-08-27T23:43:41-06:00</published>
+    <updated>2017-08-27T23:43:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/400x-coarse-mini-yellow-buffers-bc-id-472"/>
+    <title>400x Coarse Mini Yellow Buffers BC</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/1504165754943.png?v=1527384806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>A box of 400 mini disposable buffers. These coarse buffers measure 8cm x 1.5cm x 3.5cm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11679639238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>425</s:sku>
+      <s:grams>1170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675155782</id>
+    <published>2017-08-27T04:47:12-06:00</published>
+    <updated>2017-08-27T04:47:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/pro-pumice-coarse-medium-purple-24pcs-buffer-big-bar-id-930"/>
+    <title>PRO PUMICE Coarse/Medium Purple 24pcs Buffer BIG BAR</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/scraperpusher_ec8d791e-6fd4-4b36-bef9-8a454b082df0.jpg?v=1504329059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Medium (light purple) on one side and Coarse (dark purple) on the other side in an attractive retail display box.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675155782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>930</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674848902</id>
+    <published>2017-08-27T03:33:23-06:00</published>
+    <updated>2017-08-27T03:33:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/pedi-gel-scrub-spearmint-1-gallon-id-87"/>
+    <title>Pedi Gel Scrub Spearmint 1 Gallon</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/87_grande_87e1a7d1-8b77-4684-886e-d42b554af776.jpg?v=1504329468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pedi Gel Scrub Spearmint 1 Gallon</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674848902</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>87</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674837638</id>
+    <published>2017-08-27T03:30:56-06:00</published>
+    <updated>2017-08-27T03:30:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/foot-mask-12oz-spearmint-la-palm-id-8013"/>
+    <title>Foot Mask 12oz Spearmint La Palm</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/lapalmspearmintfoot.jpg?v=1504329260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Foot Mask 12oz Spearmint La Palm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674837638</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>8013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674818438</id>
+    <published>2017-08-27T03:26:51-06:00</published>
+    <updated>2017-08-27T03:26:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/firming-masque-mask-cucumber-melon-id-7711"/>
+    <title>Firming Masque / Mask Cucumber Melon</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/firmingmask.jpg?v=1504329245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Firming Masque / Mask Cucumber Melon</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674818438</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>7711</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674802502</id>
+    <published>2017-08-27T03:22:53-06:00</published>
+    <updated>2017-08-27T03:22:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cooling-mud-masque-mask-1-gallon-id-7710"/>
+    <title>Cooling Mud Masque / Mask 1 Gallon</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/coolingmaskgallon.jpg?v=1527386300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cooling Mud Masque / Mask 1 Gallon</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674802502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>7710</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674772998</id>
+    <published>2017-08-27T03:17:09-06:00</published>
+    <updated>2017-08-27T03:17:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/la-palm-extreme-callus-remover-1-gal-id-5"/>
+    <title>La Palm Extreme Callus Remover 1 Gal</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/extremecallus.jpg?v=1504329498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">La Palm Extreme Callus Remover 1 Gal</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674772998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674756358</id>
+    <published>2017-08-27T03:13:37-06:00</published>
+    <updated>2017-08-27T03:13:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/toe-separators-100-pairs-soft-amc-id-68"/>
+    <title>Toe separators 100 pairs Soft AMC</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_1252_grande_2385a14f-ecd1-498d-b328-15cee2c6510d.jpg?v=1504329502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Soft toe separators are made from EVA (premium) foam. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674756358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>68</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674696326</id>
+    <published>2017-08-27T03:01:38-06:00</published>
+    <updated>2017-08-27T03:01:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/pedicure-blades-100-ct-id-722"/>
+    <title>Pedicure blades 100 ct</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/micrabladejpeg.jpg?v=1504329473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>100 blades per pack. Premium blades.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674696326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>722</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674689990</id>
+    <published>2017-08-27T02:59:54-06:00</published>
+    <updated>2017-08-27T02:59:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/purple-bc-metal-foot-file-id-7953"/>
+    <title>Purple BC Metal Foot File</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/purplefootfile.jpg?v=1504329116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ONLY BLACK COLOR IN STOCK</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674689990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7953</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+</feed>

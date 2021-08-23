@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/hair-supplies.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-07-16T11:39:40-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667388614</id>
+    <published>2020-07-16T11:39:40-06:00</published>
+    <updated>2020-07-16T11:39:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/black-vintage-cape-with-snaps-id-7917"/>
+    <title>Black Vintage Cape with Snaps</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/blackcapesnaps.jpg?v=1527386216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Vintage Cape with Snaps</p>
+<p>QTY restricted to 20x pcs per customer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667388614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7917</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12081765062</id>
+    <published>2017-09-24T21:59:09-06:00</published>
+    <updated>2017-09-24T21:59:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/shower-cap-100pcs-id-8487"/>
+    <title>Shower Cap 100pcs</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/showercap1.jpg?v=1506311990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Shower Cap 100pcs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12081765062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>8487</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12081763526</id>
+    <published>2017-09-24T21:58:05-06:00</published>
+    <updated>2017-09-24T21:58:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/deluxe-debra-manikin-18-20-brown-id-8486"/>
+    <title>DELUXE DEBRA MANIKIN 18-20&quot; BROWN</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/D804_large_940f1ac8-99ea-4d5d-860c-c25de884636c.jpg?v=1527386317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">17"-19" Brown. 100% Hand-implanted human hair with vinyl head and facial make-up.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12081763526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>8486</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675456006</id>
+    <published>2017-08-27T06:59:04-06:00</published>
+    <updated>2017-08-27T06:59:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bleachproof-towel-16x27-black-id-8011"/>
+    <title>Bleachproof Towel 16x27</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/1525blacktowel_b5c144ff-1662-4ac0-9219-ccd6714798e4.jpg?v=1527386217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bleachresistant Towel 16x27. Fluffy.</p>
+<p>Black,Purple,Grey,Green</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675456006</id>
+      <title>Black</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675456006</id>
+      <title>Purple</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675456006</id>
+      <title>Grey</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675456006</id>
+      <title>Green</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675218310</id>
+    <published>2017-08-27T05:03:03-06:00</published>
+    <updated>2017-08-27T05:03:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/mirror-small-medium-hand-5-1-4-x-6-08306-id-3738"/>
+    <title>Mirror Small medium hand 5 1/4&quot; x 6&quot; 08306</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/medmirror.jpg?v=1504329321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mirror Small medium hand 5 1/4" x 6" 08306</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675218310</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.60</s:price>
+      <s:sku>3738</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675201990</id>
+    <published>2017-08-27T04:58:35-06:00</published>
+    <updated>2017-08-27T04:58:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/mirror-xl-9x12-black-mark-iv-08301-id-6427"/>
+    <title>Mirror XL 9x12 Black Mark IV 08301</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_2331_e9c8238b-8a5d-4350-9033-372f181c9788.JPG?v=1504329325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mirror XL 9x12 Black Mark IV 08301</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675201990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku>6427</s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675182726</id>
+    <published>2017-08-27T04:52:57-06:00</published>
+    <updated>2017-08-27T04:52:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/wood-boar-bristle-back-comb-brush-id-8007"/>
+    <title>Wood Boar Bristle Back Comb Brush</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/woodbackcomb.jpg?v=1504329608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wood Boar Bristle Back Comb Brush</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675182726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>8007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675174086</id>
+    <published>2017-08-27T04:51:33-06:00</published>
+    <updated>2017-08-27T04:51:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/black-backcomb-brush-id-7731"/>
+    <title>Black Backcomb Brush</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/backcombbrush.jpg?v=1527386215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Teasing backcombing brush</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675174086</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>7731</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675168262</id>
+    <published>2017-08-27T04:49:51-06:00</published>
+    <updated>2017-08-27T04:49:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/detangle-brush-black-wet-dry-id-7351"/>
+    <title>Detangle Brush Black Wet Dry</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/pink-detangle-brush.png?v=1568997078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Detangle Brush Black Wet Dry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675168262</id>
+      <title>Pink</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>7351-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675168262</id>
+      <title>Black</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>7351-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675168262</id>
+      <title>Purple</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>7351-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674749190</id>
+    <published>2017-08-27T03:12:15-06:00</published>
+    <updated>2017-08-27T03:12:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/shower-cap-200pcs-id-7737"/>
+    <title>Shower Cap 200pcs</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_1236_grande_063e0b51-6178-43e4-9d79-3e859fa5979d.JPG?v=1504329281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Shower Cap 200pcs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674749190</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>7737</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+</feed>

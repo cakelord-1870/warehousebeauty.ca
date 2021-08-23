@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/skin-care-supplies.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2021-08-18T11:46:47-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1403962654798</id>
+    <published>2021-08-18T11:46:47-06:00</published>
+    <updated>2021-08-18T11:46:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/zogear-non-woven-esthetic-wipe-4x4-200pcs"/>
+    <title>Non Woven Esthetic Wipe 4x4 200pcs</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_5907.JPG?v=1536346528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Note packaging is now different.</div>
+<ul>
+<li>4x4" Esthetic Wipe</li>
+<li>Non Woven</li>
+<li>Lint Free</li>
+<li>200pcs per package</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1403962654798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>9074</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4854562979918</id>
+    <published>2020-10-15T08:11:47-06:00</published>
+    <updated>2020-10-15T08:11:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/f-2-nonwoven-face-mask-100pcs-pack"/>
+    <title>F-2 Nonwoven Face Mask 100pcs/pack</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/F-2FaceMask.jpg?v=1602771107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4854562979918</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4160755335246</id>
+    <published>2019-09-24T11:41:39-06:00</published>
+    <updated>2019-09-24T11:41:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blackhead-tool-set-4-pack-kit"/>
+    <title>Blackhead tool set 4 pack kit</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/blackhead-tool-4-pack.jpg?v=1569346972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4160755335246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675714822</id>
+    <published>2018-05-20T15:39:00-06:00</published>
+    <updated>2018-05-20T15:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/glove-white-exfoliating-1-pair-id-3760"/>
+    <title>Glove white exfoliating 1 pair</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/311085.jpg?v=1504329279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Glove white exfoliating 1 pair</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675714822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>3760</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675727046</id>
+    <published>2017-08-27T09:19:15-06:00</published>
+    <updated>2017-08-27T09:19:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/mix-bowl-rubber-small-3-id-8003"/>
+    <title>Mix Bowl Rubber for Facial</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3762_931a448a-cd5c-4217-8af6-91f2f9f05947.JPG?v=1504329327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.80 - 5.00
+            <a href="https://warehousebeauty.ca/products/mix-bowl-rubber-small-3-id-8003">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mix Bowl Rubber Small 3", Medium 4", Large 5"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675727046</id>
+      <title>Small 3&quot;</title>
+      <s:price currency="CAD">4.80</s:price>
+      <s:sku>8003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675727046</id>
+      <title>Medium 4&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>8003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675727046</id>
+      <title>Large 5&quot;</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>8003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675651590</id>
+    <published>2017-08-27T08:51:51-06:00</published>
+    <updated>2017-08-27T08:51:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/mylar-blanket-1pc-id-8195"/>
+    <title>Mylar Blanket 1pc</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/mylarblanket.jpg?v=1504329335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mylar Blanket 1pc</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675651590</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>8195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675625990</id>
+    <published>2017-08-27T08:36:17-06:00</published>
+    <updated>2017-08-27T08:36:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cellulose-sponge-sale-20pcs-id-8284"/>
+    <title>Cellulose Make Up Face Sponge 20pcs</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cellulosesponge.jpg?v=1527386273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cellulose Sponge 20pcs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675625990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>8284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

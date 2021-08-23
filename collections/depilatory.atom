@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/depilatory.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2021-08-18T11:46:32-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688367942</id>
+    <published>2021-08-18T11:46:32-06:00</published>
+    <updated>2021-08-18T11:46:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/terry-head-band-white"/>
+    <title>Terry Head Band White</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/headbandgz.jpg?v=1504329486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White terry cotton head band. 1 size fits most. Washable with velcro.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688367942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675545926</id>
+    <published>2020-07-16T12:02:00-06:00</published>
+    <updated>2020-07-16T12:02:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/wax-collar-round-100-pack-gz-id-7988"/>
+    <title>Wax Collar Round 50 pack GZ</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_1244updates.jpg?v=1504329595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wax Collar Round 100 pack GZ</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675545926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>695</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675558150</id>
+    <published>2019-02-07T10:47:59-07:00</published>
+    <updated>2019-02-07T10:47:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/4-inch-x-100-yard-wax-removal-muslin-paper-id-51"/>
+    <title>4 inch x 100 yard wax removal muslin paper</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/scraperpusher_6fe498a0-0884-46c1-9045-80b59601dce7.jpg?v=1527384806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Wax removal paper roll is highly effective at hair removal yet inexpensive and light weight. Pressed paper non woven material. Works well with all types of soft waxes. Extra wide 4" for large areas such as backs or chests to save time. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675558150</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>51</s:sku>
+      <s:grams>655</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675550854</id>
+    <published>2017-08-27T07:49:23-06:00</published>
+    <updated>2017-08-27T07:49:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/woven-wax-roll-3x100y-niku-id-7494"/>
+    <title>Woven Wax Roll 3x100Y</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/woven_roll.jpg?v=1504329610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Woven Wax Roll 3x100Y</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675550854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>9837</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675543366</id>
+    <published>2017-08-27T07:44:47-06:00</published>
+    <updated>2017-08-27T07:44:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/eyebrow-wood-sticks-1000-pcs-id-7523"/>
+    <title>Eyebrow wood sticks 1000 pcs</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/scraperpusher_6c6a9dc9-6029-48e8-ac39-e0d2eec9a9ce.jpg?v=1504329175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Sticks measure 0.25" wide x 0.04" thick x 5.5" long</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675543366</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>7523</s:sku>
+      <s:grams>1270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675540614</id>
+    <published>2017-08-27T07:43:53-06:00</published>
+    <updated>2017-08-27T07:43:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/large-wood-waxing-stick-bc-100-id-923"/>
+    <title>Large Wood Waxing Stick BC 500</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/bigwoodstickcopy.jpg?v=1504328639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00 - 120.00
+            <a href="https://warehousebeauty.ca/products/large-wood-waxing-stick-bc-100-id-923">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>500 large wood waxing sticks 15cm long x 2cm wide</div>
+<div></div>
+<div>1 Box=500 Sticks</div>
+<div>1 Case=5000 Sticks</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675540614</id>
+      <title>1 Box (500 Stick)</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>8912</s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675540614</id>
+      <title>1 Case (5000 sticks)</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>923</s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675512070</id>
+    <published>2017-08-27T07:32:41-06:00</published>
+    <updated>2017-08-27T07:32:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/ycc-paraffin-mitt-1-pair-id-6202"/>
+    <title>YCC paraffin mitt 1 pair</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/terrymitt.jpg?v=1504329613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">YCC paraffin mitt 1 pair</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675512070</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>6202</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675508870</id>
+    <published>2017-08-27T07:29:09-06:00</published>
+    <updated>2017-08-27T07:29:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/white-terry-boot-pair-gz-id-7986"/>
+    <title>White Terry Boot Pair GZ</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3742.jpg?v=1504329605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White Terry Boot Pair GZ</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675508870</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7986</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675507974</id>
+    <published>2017-08-27T07:28:14-06:00</published>
+    <updated>2017-08-27T07:28:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/white-terry-mitt-pair-gz-id-7985"/>
+    <title>White Terry Mitt Pair GZ</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3743.jpg?v=1504329606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White Terry Mitt Pair GZ</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675507974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7985</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

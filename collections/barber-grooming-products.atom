@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/barber-grooming-products.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-10-23T10:00:40-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4118350430286</id>
+    <published>2020-10-23T10:00:40-06:00</published>
+    <updated>2020-10-23T10:00:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/andis-clipper-oil-4oz"/>
+    <title>Andis Clipper Oil 4oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/yhst-88462588038071_2595_771923000.png?v=1569001623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4118350430286</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/179197968390</id>
+    <published>2018-02-25T10:41:58-07:00</published>
+    <updated>2018-02-25T10:41:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/eichhorn-neck-strips-720-box-new"/>
+    <title>Eichhorn Neck Strips 720/box NEW</title>
+    <s:type></s:type>
+    <s:vendor>Eichhorn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/eichneck.jpg?v=1527386339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eichhorn<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Same style and quantity as SANEK but at a lower price. 720pcs per box, works with regular dispensers. Good quality neck strips.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/179197968390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>8667</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666668550</id>
+    <published>2017-08-26T00:54:46-06:00</published>
+    <updated>2017-08-26T00:54:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/stephan-stay-styled-gel-16oz-id-3884"/>
+    <title>Stephan Stay Styled Gel 16oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/R0096Stephangelcopy.jpg?v=1504329453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stephan Stay Styled Gel 16oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666668550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>3884</s:sku>
+      <s:grams>535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666577286</id>
+    <published>2017-08-26T00:37:20-06:00</published>
+    <updated>2017-08-26T00:37:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/stephan-stay-styled-gel-6oz-id-3883"/>
+    <title>Stephan Stay Styled Gel 6oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/R00996ozcopy.jpg?v=1504329459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stephan Stay Styled Gel 6oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666577286</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku>3883</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666508102</id>
+    <published>2017-08-26T00:16:36-06:00</published>
+    <updated>2017-08-26T00:16:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/keralux-28g-hair-building-fibers-medium-brown-id-7429"/>
+    <title>KeraLux 28g Hair Building Fibers Medium Brown, Dark Brown, Black, Silver</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/keralux.jpg?v=1504329480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>KeraLux 28g Hair Building Fibers</p>
+<p>Medium Brown,Dark Brown, Black,Grey, White</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666508102</id>
+      <title>Medium Brown</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666508102</id>
+      <title>Dark Brown</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666508102</id>
+      <title>Black</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666508102</id>
+      <title>Grey</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666508102</id>
+      <title>White</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

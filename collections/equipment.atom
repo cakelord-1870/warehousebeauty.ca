@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/equipment.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2018-04-19T13:31:47-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/85671706630</id>
+    <published>2018-04-19T13:31:47-06:00</published>
+    <updated>2018-04-19T13:31:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dermaroller-silver-titanium-540-needles-id-8558"/>
+    <title>Dermaroller Silver Titanium 540 Needles 0.25mm</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/dermaroller_89ecaa47-acaa-4047-840a-fdf29e69298c.JPG?v=1527386319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Individually packaged dermaroller. 0.25mm titanium needles. Stimulation skin therapy.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/85671706630</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12138111750</id>
+    <published>2018-04-19T13:31:47-06:00</published>
+    <updated>2018-04-19T13:31:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dermaroller-silver-titanium-540-needles-0-50mm-id-8558"/>
+    <title>Dermaroller Silver Titanium 540 Needles 0.50mm</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/dermaroller.JPG?v=1527386319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The roller effectively treats signs of ageing, pigmentation, sagging, enlarged pores and lost radiance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12138111750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>8558</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/85672132614</id>
+    <published>2017-12-25T14:55:13-07:00</published>
+    <updated>2017-12-25T14:55:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dermaroller-silver-titanium-540-needles-id-8561"/>
+    <title>Dermaroller Silver Titanium 540 Needles 1.5mm</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/dermaroller_fb465536-1921-437f-9ae7-5f8c7a6a61ee.JPG?v=1527386321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Individually packaged dermaroller. 1.5 mm titanium needles. Stimulation skin therapy.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/85672132614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>8558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/85671936006</id>
+    <published>2017-12-25T14:54:20-07:00</published>
+    <updated>2017-12-25T14:54:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dermaroller-silver-titanium-540-needles-id-8560"/>
+    <title>Dermaroller Silver Titanium 540 Needles 1.0mm</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/dermaroller_571bd4ba-1f63-4337-9a3c-068195c10051.JPG?v=1527386320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Individually packaged dermaroller. 1.0 mm titanium needles. Stimulation skin therapy.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/85671936006</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/85671772166</id>
+    <published>2017-12-25T14:53:19-07:00</published>
+    <updated>2017-12-25T14:53:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dermaroller-silver-titanium-540-needles-id-8559"/>
+    <title>Dermaroller Silver Titanium 540 Needles 0.75mm</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/dermaroller_e6debcd2-1c2f-4f4a-9750-22ccfc34dde5.JPG?v=1527386320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Individually packaged dermaroller. 0.75mm titanium needles. Stimulation skin therapy.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/85671772166</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12138108550</id>
+    <published>2017-10-13T10:11:04-06:00</published>
+    <updated>2017-10-13T10:11:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dermapen-microneedle-system-dr-pen-id-8559"/>
+    <title>Dermapen Microneedle System Dr.Pen</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/dr.pen.jpg?v=1527386318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Unlike the conventional skin treatment remedies, you do not have to spend a fortune on the derma pen. The sharp needles on the derma pen will create miniscule pores on the uppermost layer of the skin. This in turn will enhance collagen production and will replace dead skin tissues with new skin cells. One of the greatest advantages of using the derma pen is that you do not have to wait for long to see visible and better results. It is easy to use the derma pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12138108550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>8559</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688365958</id>
+    <published>2017-08-29T00:13:20-06:00</published>
+    <updated>2017-08-29T00:13:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/led-mangifying-lamp"/>
+    <title>LED Mangifying Lamp</title>
+    <s:type>equipment</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/ledmag.jpg?v=1504329081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>equipment<br>
+        <strong>Price: </strong>
+            109.00 - 149.00
+            <a href="https://warehousebeauty.ca/products/led-mangifying-lamp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Diopter LED magnifying lamp. With or without stand.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688365958</id>
+      <title>With Stand</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688365958</id>
+      <title>Without Stand</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

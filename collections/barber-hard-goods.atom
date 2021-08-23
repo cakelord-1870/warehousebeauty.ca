@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/barber-hard-goods.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-07-17T10:59:32-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666713926</id>
+    <published>2020-07-17T10:59:32-06:00</published>
+    <updated>2020-07-17T10:59:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/barber-pole-spray-bottle-id-7320"/>
+    <title>Barber Pole Spray Bottle</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/G-0401_copy.jpg?v=1527384876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Barber Pole Spray Bottle. Style is a little different now, white bottle not clear.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666713926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>7320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667388614</id>
+    <published>2020-07-16T11:39:40-06:00</published>
+    <updated>2020-07-16T11:39:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/black-vintage-cape-with-snaps-id-7917"/>
+    <title>Black Vintage Cape with Snaps</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/blackcapesnaps.jpg?v=1527386216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Vintage Cape with Snaps</p>
+<p>QTY restricted to 20x pcs per customer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667388614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7917</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4118251077710</id>
+    <published>2019-09-20T10:18:37-06:00</published>
+    <updated>2019-09-20T10:18:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/astra-platinum-blade-100pcs-double"/>
+    <title>Astra Platinum Blade 100pcs Double</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/astra.jpg?v=1568997839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4118251077710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/179197968390</id>
+    <published>2018-02-25T10:41:58-07:00</published>
+    <updated>2018-02-25T10:41:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/eichhorn-neck-strips-720-box-new"/>
+    <title>Eichhorn Neck Strips 720/box NEW</title>
+    <s:type></s:type>
+    <s:vendor>Eichhorn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/eichneck.jpg?v=1527386339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eichhorn<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Same style and quantity as SANEK but at a lower price. 720pcs per box, works with regular dispensers. Good quality neck strips.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/179197968390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>8667</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666728390</id>
+    <published>2017-08-26T01:17:42-06:00</published>
+    <updated>2017-08-26T01:17:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/plastic-fold-up-razor-straight-id-7319"/>
+    <title>Plastic Fold Up Razor Straight</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/foldup_copy_eeb7b2e8-4f84-4886-804b-7008e4d57249.jpg?v=1504329009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Plastic Fold Up Razor Straight</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666728390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666722566</id>
+    <published>2017-08-26T01:15:13-06:00</published>
+    <updated>2017-08-26T01:15:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/treet-platinum-razor-blade-200-ct-id-6241"/>
+    <title>Treet Platinum Razor Blade 200 ct</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/treet.jpg?v=1504329516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b> </b>20 packs of 10 double edge razor blades. Made in Pakistan.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666722566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>6241</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666719878</id>
+    <published>2017-08-26T01:14:08-06:00</published>
+    <updated>2017-08-26T01:14:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/stainless-steel-beard-shaping-template-guide-id-8218"/>
+    <title>Stainless Steel Beard Shaping Template Guide</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/beardthign2.JPG?v=1504329405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Beard Shaping Template Guide</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666719878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>8218</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666718470</id>
+    <published>2017-08-26T01:12:51-06:00</published>
+    <updated>2017-08-26T01:12:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/plastic-grooming-beard-shaping-guide-id-8233"/>
+    <title>Plastic Grooming Beard Shaping Guide</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3953.JPG?v=1504329014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Plastic Grooming Beard Shaping Guide</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666718470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>8233</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

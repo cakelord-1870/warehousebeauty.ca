@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/creams-foundation.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2017-12-29T15:31:44-07:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/89784352774</id>
+    <published>2017-12-29T15:31:44-07:00</published>
+    <updated>2017-12-29T15:31:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/fantasea-24pk-foam-makeup-wedge-id-8567"/>
+    <title>Fantasea 24pk Foam Makeup Wedge</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/5.jpg?v=1514586751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fantasea 24pk Foam Makeup Wedge</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/89784352774</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>8567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670399430</id>
+    <published>2017-08-26T12:18:33-06:00</published>
+    <updated>2017-08-26T12:18:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/p6-colors-makeup-concealer-palette-id-7604"/>
+    <title>P6 Colors Makeup Concealer Palette</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/6-palette-concealer.JPG?v=1504329455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">P6 Colors Makeup Concealer Palette</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670399430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7604</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+  </entry>
+</feed>

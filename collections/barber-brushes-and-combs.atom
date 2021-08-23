@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/barber-brushes-and-combs.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2017-09-24T21:54:53-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12081757894</id>
+    <published>2017-09-24T21:54:53-06:00</published>
+    <updated>2017-09-24T21:54:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/scalpmaster-oval-palm-boar-brush-id-8483"/>
+    <title>SCALPMASTER Oval Palm Boar Brush</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/SC2216_large_e0a13304-c5b7-4b61-b2c3-87b62d3c7816.jpg?v=1506311729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">9 row, 4-3/4" oval palm brush with nylon reinforced boar bristles and a natural wood, high gloss finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12081757894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>8483</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675168262</id>
+    <published>2017-08-27T04:49:51-06:00</published>
+    <updated>2017-08-27T04:49:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/detangle-brush-black-wet-dry-id-7351"/>
+    <title>Detangle Brush Black Wet Dry</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/pink-detangle-brush.png?v=1568997078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Detangle Brush Black Wet Dry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675168262</id>
+      <title>Pink</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>7351-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675168262</id>
+      <title>Black</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>7351-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675168262</id>
+      <title>Purple</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>7351-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666424070</id>
+    <published>2017-08-25T23:55:13-06:00</published>
+    <updated>2017-08-25T23:55:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/tub-of-pocket-combs-48pc-id-3954"/>
+    <title>Tub of Pocket Combs 48pc</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/bucketofcombs1copy.jpg?v=1504329518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>48 black combs per tub</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666424070</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>3954</s:sku>
+      <s:grams>470</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666405190</id>
+    <published>2017-08-25T23:42:41-06:00</published>
+    <updated>2017-08-25T23:42:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/club-brush-teakwood-id-3945"/>
+    <title>Club Brush Teakwood</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/Club_Brush_Teakwood.jpg?v=1527386282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">100% soft pure boar bristles. 7 rows. Dark teakwood handle. Large size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666405190</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku>3945</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+</feed>

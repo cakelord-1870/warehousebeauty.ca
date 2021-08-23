@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/ammonia-free-colour.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2017-08-25T01:33:28-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655443270</id>
+    <published>2017-08-25T01:33:28-06:00</published>
+    <updated>2017-08-25T01:33:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-6-0-id-7555"/>
+    <title>BLIFE Ammonia Free Color 6.0</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/6-0_BLIFE.jpg?v=1527386225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 6.0</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655443270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7555</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655440006</id>
+    <published>2017-08-25T01:32:56-06:00</published>
+    <updated>2017-08-25T01:32:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-4-0-id-7553"/>
+    <title>BLIFE Ammonia Free Color 4.0</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/4-0_BLIFE.jpg?v=1527386219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 4.0</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655440006</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7553</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655436998</id>
+    <published>2017-08-25T01:32:22-06:00</published>
+    <updated>2017-08-25T01:32:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-5-0-id-7554"/>
+    <title>BLIFE Ammonia Free Color 5.0</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/5-0_BLIFE.jpg?v=1527386220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 5.0</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655436998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7554</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655434694</id>
+    <published>2017-08-25T01:31:39-06:00</published>
+    <updated>2017-08-25T01:31:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-3-0-id-7552"/>
+    <title>BLIFE Ammonia Free Color 3.0</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/3-0_BLIFE.jpg?v=1527386218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 3.0</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655434694</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7552</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655429510</id>
+    <published>2017-08-25T01:30:51-06:00</published>
+    <updated>2017-08-25T01:30:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-7-0-id-7556"/>
+    <title>BLIFE Ammonia Free Color 7.0</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/7-0_BLIFE.jpg?v=1527386230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 7.0</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655429510</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655423110</id>
+    <published>2017-08-25T01:29:32-06:00</published>
+    <updated>2017-08-25T01:29:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-9-0-id-8081"/>
+    <title>BLIFE Ammonia Free Color 9.0</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/9-0_BLIFE.jpg?v=1527386238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 9.0</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655423110</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>8081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655418886</id>
+    <published>2017-08-25T01:28:46-06:00</published>
+    <updated>2017-08-25T01:28:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-5-5-id-8113"/>
+    <title>BLIFE Ammonia Free Color 5.5</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/5-5_BLIFE.jpg?v=1527386224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 5.5</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655418886</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>8113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655415750</id>
+    <published>2017-08-25T01:28:10-06:00</published>
+    <updated>2017-08-25T01:28:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-9-13-id-8111"/>
+    <title>BLIFE Ammonia Free Color 9.13</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/9-13_BLIFE.jpg?v=1527386240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 9.13</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655415750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>8111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655412486</id>
+    <published>2017-08-25T01:27:35-06:00</published>
+    <updated>2017-08-25T01:27:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-7-13-id-8110"/>
+    <title>BLIFE Ammonia Free Color 7.13</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/7-13_BLIFE.jpg?v=1527386231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 7.13</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655412486</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>8110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655409798</id>
+    <published>2017-08-25T01:26:16-06:00</published>
+    <updated>2017-08-25T01:26:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-9-3-id-8112"/>
+    <title>BLIFE Ammonia Free Color 9.3</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/9-3_BLIFE.jpg?v=1527386240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 9.3</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655409798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>8112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655398342</id>
+    <published>2017-08-25T01:24:12-06:00</published>
+    <updated>2017-08-25T01:24:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-10-0-id-8109"/>
+    <title>BLIFE Ammonia Free Color 10.0</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/10-0_BLIFE.jpg?v=1527386217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 10.0</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655398342</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>8109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655395526</id>
+    <published>2017-08-25T01:23:40-06:00</published>
+    <updated>2017-08-25T01:23:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-2-0-id-7551"/>
+    <title>BLIFE Ammonia Free Color 2.0</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/2-0_BLIFE.jpg?v=1527386218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 2.0</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655395526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7551</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655391686</id>
+    <published>2017-08-25T01:22:37-06:00</published>
+    <updated>2017-08-25T01:22:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-8-0-id-7557"/>
+    <title>BLIFE Ammonia Free Color 8.0</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/8-0_BLIFE.jpg?v=1527386236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 8.0</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655391686</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655388806</id>
+    <published>2017-08-25T01:21:45-06:00</published>
+    <updated>2017-08-25T01:21:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-5-35-id-7564"/>
+    <title>BLIFE Ammonia Free Color 5.35</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/5-35_BLIFE.jpg?v=1527386223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 5.35</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655388806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7564</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655386566</id>
+    <published>2017-08-25T01:21:09-06:00</published>
+    <updated>2017-08-25T01:21:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-6-35-id-7565"/>
+    <title>BLIFE Ammonia Free Color 6.35</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/6-35_BLIFE.jpg?v=1527386228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 6.35</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655386566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7565</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655385350</id>
+    <published>2017-08-25T01:20:03-06:00</published>
+    <updated>2017-08-25T01:20:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-6-62-id-7587"/>
+    <title>BLIFE Ammonia Free Color 6.62</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/6-62_BLIFE.jpg?v=1527386229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 6.62</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655385350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7587</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655376518</id>
+    <published>2017-08-25T01:16:05-06:00</published>
+    <updated>2017-08-25T01:16:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-6-1-id-7577"/>
+    <title>BLIFE Ammonia Free Color 6.1</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/6-1_BLIFE.jpg?v=1527386225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 6.1</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655376518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7577</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655374918</id>
+    <published>2017-08-25T01:15:16-06:00</published>
+    <updated>2017-08-25T01:15:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-7-1-id-7578"/>
+    <title>BLIFE Ammonia Free Color 7.1</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/7-1_BLIFE.jpg?v=1527386231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 7.1</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655374918</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655372934</id>
+    <published>2017-08-25T01:14:40-06:00</published>
+    <updated>2017-08-25T01:14:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-9-02-id-7575"/>
+    <title>BLIFE Ammonia Free Color 9.02</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/9-02_BLIFE.jpg?v=1527386239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 9.02</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655372934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7575</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655371526</id>
+    <published>2017-08-25T01:13:34-06:00</published>
+    <updated>2017-08-25T01:13:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-5-3-id-7570"/>
+    <title>BLIFE Ammonia Free Color 5.3</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/5-3_BLIFE.jpg?v=1527386221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 5.3</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655371526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7570</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655370118</id>
+    <published>2017-08-25T01:12:11-06:00</published>
+    <updated>2017-08-25T01:12:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-6-31-id-7558"/>
+    <title>BLIFE Ammonia Free Color 6.31</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/6-31_BLIFE.jpg?v=1527386227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 6.31</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655370118</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655366150</id>
+    <published>2017-08-25T01:11:08-06:00</published>
+    <updated>2017-08-25T01:11:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-4-52-id-7583"/>
+    <title>BLIFE Ammonia Free Color 4.52</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/4-52_BLIFE.jpg?v=1527386220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 4.52</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655366150</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7583</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655363590</id>
+    <published>2017-08-25T01:10:03-06:00</published>
+    <updated>2017-08-25T01:10:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-7-3-id-7572"/>
+    <title>BLIFE Ammonia Free Color 7.3</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/7-3_BLIFE.jpg?v=1527386232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 7.3</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655363590</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7572</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655362182</id>
+    <published>2017-08-25T01:09:23-06:00</published>
+    <updated>2017-08-25T01:09:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-5-32-id-7560"/>
+    <title>BLIFE Ammonia Free Color 5.32</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/5-32_BLIFE.jpg?v=1527386222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 5.32</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655362182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7560</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11655357254</id>
+    <published>2017-08-25T01:08:29-06:00</published>
+    <updated>2017-08-25T01:08:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blife-ammonia-free-color-6-66-id-7585"/>
+    <title>BLIFE Ammonia Free Color 6.66</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/6-66_BLIFE.jpg?v=1527386230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BLIFE Ammonia Free Color 6.66</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11655357254</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7585</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

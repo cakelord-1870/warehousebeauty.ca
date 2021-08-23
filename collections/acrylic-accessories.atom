@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/acrylic-accessories.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-07-17T09:48:27-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11669123974</id>
+    <published>2020-07-17T09:48:27-06:00</published>
+    <updated>2020-07-17T09:48:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/3-32-mandrel-sanding-band-15-pc-box-id-944"/>
+    <title>3/32 Mandrel sanding band 10x</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_0409_grande_322d4564-c710-497f-abad-197548798b0e.jpg?v=1527384788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For use with small size sanding bands. They do not come with the box.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669123974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>944</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/2402056175694</id>
+    <published>2018-10-07T12:31:15-06:00</published>
+    <updated>2018-10-07T12:31:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cnd-brisa-uv-bond-0-25oz-6461-qty-47-price-12"/>
+    <title>CND BRISA UV BOND 0.25oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_6961.JPG?v=1550096614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>WHAT IT IS A bonding agent that helps adhere BRISA™ Gel enhancements.</div>
+<div>WHAT IT DOES Forms a powerful covalent bond between gel enhancements and the natural nail for superior adhesion.</div>
+<div>WHY YOU NEED IT • Advanced technology provides superior adhesion. – To prevent lifting. – To promote longer wear.</div>
+<div></div>
+<div>Airdry </div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/2402056175694</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>6461</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/2402053619790</id>
+    <published>2018-10-07T12:31:15-06:00</published>
+    <updated>2018-10-07T12:31:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cnd-brisa-gloss-clear-0-5oz-id-6232-qty-12-price-20"/>
+    <title>CND BRISA GLOSS CLEAR 0.5oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_6960.JPG?v=1550096347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>WHAT IT IS A high-gloss light-cured gel top coat.</div>
+<div>WHAT IT DOES Provides a durable, shiny finish that seals and protects BRISA™ Gel enhancements.</div>
+<div>WHY YOU NEED IT Shine: Superior high-gloss finish for gel enhancements</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/2402053619790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>6232</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667913222</id>
+    <published>2018-10-07T12:31:15-06:00</published>
+    <updated>2018-10-07T12:31:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cnd-nailprime-0-5oz-id-1599"/>
+    <title>CND Nailprime 0.5oz Nail Prime</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_6959.JPG?v=1550096206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>CND NailPrime effectively bonds enhancements. Acid-free, non-corrosive formula won't burn skin.</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667913222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>1599</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1408273186894</id>
+    <published>2018-09-18T10:39:19-06:00</published>
+    <updated>2018-09-18T10:39:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/0-5-oz-glass-cup-quantity-1-dappen-dish"/>
+    <title>0.5 oz glass cup quantity 1 dappen dish</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/glasscup.jpg?v=1537309317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Small glass dappen dishes for acrylic liquid or mixing</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1408273186894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>46</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667932998</id>
+    <published>2018-02-14T16:49:41-07:00</published>
+    <updated>2018-02-14T16:49:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/nail-form-square-id-160"/>
+    <title>Nail Form Square</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/nailformsquare.jpg?v=1504329355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The best nail forms in the world</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667932998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>285</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11679648838</id>
+    <published>2018-01-25T13:22:23-07:00</published>
+    <updated>2018-01-25T13:22:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/1-8-mandrel-tool-bit-id-8321"/>
+    <title>1/8 Mandrel Tool Bit</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/scraperpusher_24b6af85-81b1-4aaf-b3f3-c4e3668b4961.jpg?v=1527384762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1/8 Mandrel Tool Bit ID #8321</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11679648838</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku>8321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11694009670</id>
+    <published>2017-08-29T23:03:16-06:00</published>
+    <updated>2017-08-29T23:03:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/natural-nail-tips-50pcs"/>
+    <title>Natural Nail Tips 50pcs</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/nat_tip.png?v=1504329370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.40 - 30.00
+            <a href="https://warehousebeauty.ca/products/natural-nail-tips-50pcs">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural colored plastic nail tips. Sizes 0 though 10.</p>
+<p>50pcs per bag.</p>
+<p>1 case=100 bags (5000 tips)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>1 / 50 Tips</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>1 / 5000 Tips</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>2 / 50 Tips</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>2 / 5000 Tips</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>3 / 50 Tips</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>3 / 5000 Tips</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>4 / 50 Tips</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>4 / 5000 Tips</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>5 / 50 Tips</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>5 / 5000 Tips</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>6 / 50 Tips</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>6 / 5000 Tips</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>7 / 50 Tips</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>7 / 5000 Tips</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>8 / 50 Tips</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>8 / 5000 Tips</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>9 / 50 Tips</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>9 / 5000 Tips</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>10 / 50 Tips</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11694009670</id>
+      <title>10 / 5000 Tips</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667950278</id>
+    <published>2017-08-26T05:07:30-06:00</published>
+    <updated>2017-08-26T05:07:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/smile-cut-french-tool-q-cutter-id-7954"/>
+    <title>Smile Cut French Tool Q cutter</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/frenchcutter1.jpg?v=1504329323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Smile Cut French Tool Q cutter</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667950278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>7954</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+</feed>

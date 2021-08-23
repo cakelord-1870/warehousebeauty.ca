@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/acrylic-powder.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2018-05-20T15:37:30-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668355142</id>
+    <published>2018-05-20T15:37:30-06:00</published>
+    <updated>2018-05-20T15:37:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bc-clear-acrylic-powder-24oz-id-714"/>
+    <title>BC Clear Acrylic Powder 24oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/powder24bc_893e1ed1-abe1-42d0-b4df-d46a20f44514.jpg?v=1527384880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">High quality acrylic powder for use with any liquid system. Add powder color and glitter for fun.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668355142</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>714</s:sku>
+      <s:grams>725</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668341126</id>
+    <published>2018-05-20T15:37:29-06:00</published>
+    <updated>2018-05-20T15:37:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bc-acrylic-powder-white-24oz-id-6239"/>
+    <title>BC Acrylic Powder White 24oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/powder24bc.jpg?v=1527384879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BC Acrylic Powder White 24oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668341126</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>6239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668884806</id>
+    <published>2017-08-26T07:46:16-06:00</published>
+    <updated>2017-08-26T07:46:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dipping-powder-base-coat-0-5oz-id-8220"/>
+    <title>Dipping Powder Base Coat 0.5oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/binbasecoat.jpg?v=1527386323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dipping Powder Base Coat 0.5oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668884806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>8220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668879878</id>
+    <published>2017-08-26T07:45:09-06:00</published>
+    <updated>2017-08-26T07:45:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dipping-powder-top-coat-0-5oz-id-8222"/>
+    <title>Dipping Powder Top Coat 0.5oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/bin3.jpg?v=1527386326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dipping Powder Top Coat 0.5oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668879878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>8222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668366790</id>
+    <published>2017-08-26T06:15:19-06:00</published>
+    <updated>2017-08-26T06:15:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dipping-powder-activator-0-5oz-id-8221"/>
+    <title>Dipping Powder Activator 0.5oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/bin2.jpg?v=1527386322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dipping Powder Activator 0.5oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668366790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>8221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668360774</id>
+    <published>2017-08-26T06:14:35-06:00</published>
+    <updated>2017-08-26T06:14:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dipping-powder-natural-white-1oz-id-8216"/>
+    <title>Dipping Powder Natural White 1oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/naturalwhite.jpg?v=1527386326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dipping Powder Natural White 1oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668360774</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>8216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668334854</id>
+    <published>2017-08-26T06:10:37-06:00</published>
+    <updated>2017-08-26T06:10:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dipping-powder-dark-pink-1oz-id-8214"/>
+    <title>Dipping Powder Dark Pink 1oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/darkpink.jpg?v=1527386324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dipping Powder Dark Pink 1oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668334854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>8214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668330630</id>
+    <published>2017-08-26T06:09:57-06:00</published>
+    <updated>2017-08-26T06:09:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dipping-powder-clear-pink-1oz-id-8213"/>
+    <title>Dipping Powder Clear Pink 1oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cleapink.jpg?v=1527386324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dipping Powder Clear Pink 1oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668330630</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>8213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668326598</id>
+    <published>2017-08-26T06:09:17-06:00</published>
+    <updated>2017-08-26T06:09:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dipping-powder-french-white-1oz-id-8212"/>
+    <title>Dipping Powder French White 1oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/frenchwhite.jpg?v=1527386325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dipping Powder French White 1oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668326598</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>8212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668322118</id>
+    <published>2017-08-26T06:08:19-06:00</published>
+    <updated>2017-08-26T06:08:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dipping-powder-clear-1oz-id-8211"/>
+    <title>Dipping Powder Clear 1oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cleardipping.jpg?v=1527386323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dipping Powder Clear 1oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668322118</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>8211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668314758</id>
+    <published>2017-08-26T06:07:32-06:00</published>
+    <updated>2017-08-26T06:07:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dipping-powder-natural-pink-1oz-id-8215"/>
+    <title>Dipping Powder Natural Pink 1oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/naturalpink.jpg?v=1527386325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dipping Powder Natural Pink 1oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668314758</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>8212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

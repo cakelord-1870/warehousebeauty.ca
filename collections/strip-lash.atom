@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/strip-lash.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2018-01-19T13:44:07-07:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/109588840454</id>
+    <published>2018-01-19T13:44:07-07:00</published>
+    <updated>2018-01-19T13:44:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/waterproof-eyelash-glue-7g-8408"/>
+    <title>Waterproof Eyelash Glue</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/lash_adhsive.jpg?v=1516394819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Waterproof eye lash glue. Contains latex. Clear/white color.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/109588840454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>8408</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/108795265030</id>
+    <published>2018-01-18T15:38:32-07:00</published>
+    <updated>2018-01-18T15:38:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/ks02sy-magnetic-lashes-1-pair"/>
+    <title>KS02SY Magnetic Lashes 1 Pair</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/KS02SY_2.JPG?v=1516315823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1 Pair of magnetic lashes. Comes in display case with 4 pieces, 2 top and 2 bottom halves.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/108795265030</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/108794937350</id>
+    <published>2018-01-18T15:38:32-07:00</published>
+    <updated>2018-01-18T15:38:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/ks02-magnetic-lashes-1-pair"/>
+    <title>KS02 Magnetic Lashes 1 Pair</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4730.JPG?v=1516315684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1 Pair of magnetic lashes. Comes in display case with 4 pieces, 2 top and 2 bottom halves.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/108794937350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

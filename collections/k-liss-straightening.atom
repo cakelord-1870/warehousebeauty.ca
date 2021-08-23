@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/k-liss-straightening.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2019-09-19T15:27:51-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675550726</id>
+    <published>2019-09-19T15:27:51-06:00</published>
+    <updated>2019-09-19T15:27:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/k-liss-restructuring-smoothing-conditioner-250ml-id-6142"/>
+    <title>K.LISS RESTRUCTURING SMOOTHING CONDITIONER 250ML</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/klissocnd.jpg?v=1504329475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">An exclusive rich in Keratin formula that nourishes deeply and calms frizz leaving hair soft, shiny and smooth. It also helps prolong the results of any straightening treatment.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675550726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>6142</s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675549126</id>
+    <published>2019-09-19T15:27:51-06:00</published>
+    <updated>2019-09-19T15:27:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/k-liss-restructuring-smoothing-shampoo-250ml-id-6144"/>
+    <title>K.LISS RESTRUCTURING SMOOTHING SHAMPOO 250ML</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/klissshampoo.jpg?v=1504329476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The ultimate in luxury hair care.<br> An exclusive restructuring smoothing therapy with Keratin designed to achieve smooth, shiny, easy to style hair.<br> <strong>Restructuring smoothing Keratin shampoo. </strong><br>An exclusive Sulphate free formula with Keratin that gently cleanses, nourishes and calms frizz leaving hair soft and shiny. It also helps prolong the results of any straightening treatment.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675549126</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>6144</s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675552198</id>
+    <published>2017-08-27T07:50:24-06:00</published>
+    <updated>2017-08-27T07:50:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/2-k-liss-restructuring-keratin-spray-250ml-id-6143"/>
+    <title>2 K.LISS RESTRUCTURING KERATIN SPRAY 250ML</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/keratinspray.jpg?v=1527384774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">It helps restructure the hair and protects it from heat thanks to Keratin, Pro-Vitamin B5 and Cationic Conditioning Agents. Used before straightening iron, it strengthens the hair structure keeping the hair in optimum condition. Directions: Apply strand-by-strand to towel dried hair, blow dry and proceed with straightening iron.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675552198</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.75</s:price>
+      <s:sku>6143</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675546502</id>
+    <published>2017-08-27T07:46:55-06:00</published>
+    <updated>2017-08-27T07:46:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/3-k-liss-neutralizing-emulsion-250ml-id-6435"/>
+    <title>3 K.LISS NEUTRALIZING EMULSION 250ML</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/klissneutral.jpg?v=1527384786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">K.Liss Neutralizing Emulsion has a special creamy texture designed to be easy applied and evenly distributed on the hair, while the client sits comfortably at the work station.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675546502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>6435</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675544454</id>
+    <published>2017-08-27T07:44:55-06:00</published>
+    <updated>2017-08-27T07:44:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/k-liss-thermal-straightening-system-kit-id-6151"/>
+    <title>K.LISS THERMAL STRAIGHTENING SYSTEM - KIT</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/klisskit.jpg?v=1504329478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            67.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">K.LISS THERMAL STRAIGHTENING SYSTEM - KIT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675544454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.25</s:price>
+      <s:sku>6151</s:sku>
+      <s:grams>830</s:grams>
+    </s:variant>
+  </entry>
+</feed>

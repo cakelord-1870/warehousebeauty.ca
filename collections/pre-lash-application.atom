@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/pre-lash-application.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2021-08-18T11:46:47-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1403962654798</id>
+    <published>2021-08-18T11:46:47-06:00</published>
+    <updated>2021-08-18T11:46:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/zogear-non-woven-esthetic-wipe-4x4-200pcs"/>
+    <title>Non Woven Esthetic Wipe 4x4 200pcs</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_5907.JPG?v=1536346528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Note packaging is now different.</div>
+<ul>
+<li>4x4" Esthetic Wipe</li>
+<li>Non Woven</li>
+<li>Lint Free</li>
+<li>200pcs per package</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1403962654798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>9074</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688367046</id>
+    <published>2020-10-07T14:30:19-06:00</published>
+    <updated>2020-10-07T14:30:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/accel-preempt-rtu-wipes-6x7"/>
+    <title>Preempt RTU WIPES 6x7</title>
+    <s:type>Disinfectant</s:type>
+    <s:vendor>Accel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/wipesrtu.png?v=1527384832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Accel<br>
+        <strong>Type: </strong>Disinfectant<br>
+        <strong>Price: </strong>
+            22.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wipes for surface cleaning, tables, beds, pedicure chairs. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688367046</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.40</s:price>
+      <s:sku>8051</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688365830</id>
+    <published>2018-05-20T15:39:00-06:00</published>
+    <updated>2018-05-20T15:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/graham-esthetic-wipe-2x2-4x4"/>
+    <title>Graham Esthetic Wipe 2x2 4x4</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/spawipe.jpg?v=1504329293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft lint free wipe. 2x2" or 4x4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688365830</id>
+      <title>2x2</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688350790</id>
+    <published>2018-05-20T15:37:31-06:00</published>
+    <updated>2018-05-20T15:37:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blink-lash-foam-100ml"/>
+    <title>Blink Lash Foam [100ml]</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4169.jpg?v=1527386244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lash foam for eyelash extensions increases bonding life, cleans eyelashes, prevents germs. Apply cleanser on the eyelashes and brush to remove residue. After cleansing use a saline solution or eye cleanser to wash away excess. Dry with cotton pads and brush extensions into place with a mascara wand.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688350790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688365574</id>
+    <published>2018-05-13T10:59:08-06:00</published>
+    <updated>2018-05-13T10:59:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/white-disinfecting-sterilizing-tray"/>
+    <title>White Disinfecting Sterilizing Tray</title>
+    <s:type>Disinfectant</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/stertraywhite_ae87ba57-d59d-4163-8a11-0ff63c2dfa29.jpg?v=1504329597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Disinfectant<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Convenient tray for sterilizing your tools. Works with accel/preempt products</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688365574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>100</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12114870278</id>
+    <published>2017-10-04T09:58:05-06:00</published>
+    <updated>2017-10-04T09:58:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/thermometer-hygrometer-humidity-temperature-monitor-white"/>
+    <title>Thermometer Hygrometer Humidity Temperature Monitor</title>
+    <s:type></s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4374.jpg?v=1507132689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small electronic display of temperature and humidity. Approx 1.5" Color may change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114870278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688380550</id>
+    <published>2017-08-29T00:18:57-06:00</published>
+    <updated>2017-08-29T00:18:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/eyelash-protein-remover-15ml"/>
+    <title>Eyelash Protein Remover 15ml</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/protein.png?v=1504329213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Protein remover is designed to remove organic material from the lashes such as oils and skin material. It prepares the lashes for primer or ready for lashes.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688380550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688379974</id>
+    <published>2017-08-29T00:18:47-06:00</published>
+    <updated>2017-08-29T00:18:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/korea-lash-primer-15g"/>
+    <title>Korea Lash Primer 15g</title>
+    <s:type>primer</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/Korea_primer.jpg?v=1504329490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>primer<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium lash primer is used before the application of the lashes. Carefully swab each lash with primer.</p>
+<p>Increases the retention time of lases.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688379078</id>
+    <published>2017-08-29T00:18:15-06:00</published>
+    <updated>2017-08-29T00:18:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/microbrush-swab-100ct"/>
+    <title>Microbrush Swab 100ct</title>
+    <s:type>Microbrush</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3804.jpg?v=1504329294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Microbrush<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Microbrush 100 pieces. Used to clean the lashes or use with remover.</p>
+<p>Comes in a easy to use plastic container.</p>
+<p>3 sizes of swab end available.</p>
+<p>Blue=Large 2.5mm</p>
+<p>Green=Medium 2.0mm</p>
+<p>Purple=Small 1.5mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379078</id>
+      <title>1.5mm</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379078</id>
+      <title>2.0mm</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379078</id>
+      <title>2.5mm</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688378054</id>
+    <published>2017-08-29T00:17:59-06:00</published>
+    <updated>2017-08-29T00:17:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/lip-brush-disposable-50pc"/>
+    <title>Lip Brush Disposable 50pc</title>
+    <s:type>Lip Gloss App</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3944.jpg?v=1504329211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Lip Gloss App<br>
+        <strong>Price: </strong>
+            4.99 - 39.00
+            <a href="https://warehousebeauty.ca/products/lip-brush-disposable-50pc">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disposable lip gloss brushes. 50 pieces per bag, pink or black handle.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688378054</id>
+      <title>Black / 1 Bag</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688378054</id>
+      <title>Black / 10 Bags</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688378054</id>
+      <title>Pink / 1 Bag</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688378054</id>
+      <title>Pink / 10 Bags</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688376454</id>
+    <published>2017-08-29T00:17:26-06:00</published>
+    <updated>2017-08-29T00:17:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/practice-lash"/>
+    <title>Practice Lash</title>
+    <s:type>strip lash</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/practicelash.jpg?v=1504329039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>strip lash<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>5 pairs of self sticking natural looking practice lashes. Best used with the practice mannequin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688376454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>7503</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688376262</id>
+    <published>2017-08-29T00:17:24-06:00</published>
+    <updated>2017-08-29T00:17:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/eyelash-mannequin-head"/>
+    <title>Eyelash Mannequin Head</title>
+    <s:type>training</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/manheadmicro.jpg?v=1504329204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>training<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Practice training head, lies flat on the table. Made of soft rubber.</p>
+<p>Use with our practice lash trays.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688376262</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688356806</id>
+    <published>2017-08-29T00:08:56-06:00</published>
+    <updated>2017-08-29T00:08:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blink-eyelash-extension-base-15ml"/>
+    <title>Blink Eyelash Extension Base 15ml</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/extensionbase.jpg?v=1527386243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Base removes the coated surface of the false lashes. Helping adhesion and retention time. </p>
+<p>1) Put a drop on a jade stone</p>
+<p>2) Dip the root of the false lash in the base or apply with a cotton swab. </p>
+<p>3) Let dry for 10 minutes and proceed with application</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688356806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688352710</id>
+    <published>2017-08-29T00:07:46-06:00</published>
+    <updated>2017-08-29T00:07:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blink-eye-make-up-remover-pad-50ea"/>
+    <title>Blink Eye Make Up Remover Pad 50ea</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4167.jpg?v=1527386242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>50 oil free make up remover pads. Rinse with warm water and dry skin after use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688352710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688349702</id>
+    <published>2017-08-29T00:06:43-06:00</published>
+    <updated>2017-08-29T00:06:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blink-lip-and-eye-make-up-remover-100ml"/>
+    <title>Blink Lip and Eye Make up Remover 100ml</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4172.jpg?v=1527386244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pure clear lip and eye make up remover for eyelash extensions. Removes make up with no residue. Apply with a cotton pad, polish gently and rinse with warm water.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688349702</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688349254</id>
+    <published>2017-08-29T00:06:35-06:00</published>
+    <updated>2017-08-29T00:06:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blink-eyelash-primer-50ml"/>
+    <title>Blink Eyelash Primer 50ml</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/lashprimerblink.jpg?v=1527386243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lash primer helps bond the lashes increasing retention time. Removes oil and dust before application. Apply with cotton.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688349254</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

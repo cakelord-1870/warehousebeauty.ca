@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/makeup.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-10-11T10:55:18-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675646598</id>
+    <published>2020-10-11T10:55:18-06:00</published>
+    <updated>2020-10-11T10:55:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/brightening-aloe-vera-soothing-facial-cleansing-wipes-60-id-7397"/>
+    <title>Petal Fresh Soothing Facial Cleansing Wipes</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/wipe4_efd9d429-5a24-4524-ab31-4f8768f36b98.jpg?v=1504328986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Petal Fresh cleansing wipes for removing make up. 60pcs per pack.</p>
+<p>Aloe,Pomegranate,Cucumber,Coconut</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675646598</id>
+      <title>Aloe</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675646598</id>
+      <title>Pomegranate</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675646598</id>
+      <title>Coconut</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1326892941390</id>
+    <published>2018-04-16T10:11:19-06:00</published>
+    <updated>2018-04-16T10:11:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/120-3-colors-3-eyeshadow-palette"/>
+    <title>120-3 Colors #3 Eyeshadow Palette</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/128pal.jpg?v=1527384764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">120-3 Colors #3 Eyeshadow Palette</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1326892941390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>7601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/89784352774</id>
+    <published>2017-12-29T15:31:44-07:00</published>
+    <updated>2017-12-29T15:31:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/fantasea-24pk-foam-makeup-wedge-id-8567"/>
+    <title>Fantasea 24pk Foam Makeup Wedge</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/5.jpg?v=1514586751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fantasea 24pk Foam Makeup Wedge</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/89784352774</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>8567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670450758</id>
+    <published>2017-08-26T12:28:52-06:00</published>
+    <updated>2017-08-26T12:28:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/waterproof-brow-mascara-04-id-8228"/>
+    <title>Waterproof Brow Mascara 04</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/browmascara04.jpg?v=1504329593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Waterproof Brow Mascara 04</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670450758</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>8228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670445446</id>
+    <published>2017-08-26T12:28:05-06:00</published>
+    <updated>2017-08-26T12:28:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/waterproof-brow-mascara-03-id-8225"/>
+    <title>Waterproof Brow Mascara 03</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/waterproof03.jpg?v=1504329592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Waterproof Brow Mascara 03</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670445446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>8225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670441222</id>
+    <published>2017-08-26T12:27:10-06:00</published>
+    <updated>2017-08-26T12:27:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/p28-colors-eyeshadow-palette-makeup-set-id-7600"/>
+    <title>15 Colors E-1 Eyeshadow Mini</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/15-eyeshadow.jpg?v=1527384765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Small size eye shadow set. Natural colors.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670441222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670434694</id>
+    <published>2017-08-26T12:26:16-06:00</published>
+    <updated>2017-08-26T12:26:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/white-eyeliner-pencil-waterproof-id-8268"/>
+    <title>1x White Eyeliner Pencil Waterproof</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/whiteeyeliner_grande_4943298c-33e2-476a-99cc-e13c2bb856d6.jpg?v=1527384773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.25 - 12.00
+            <a href="https://warehousebeauty.ca/products/white-eyeliner-pencil-waterproof-id-8268">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Also good for laser outlining on the skin.</p>
+<p>1x Piece or 12 Pieces packs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670434694</id>
+      <title>1 Piece</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>8268</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670434694</id>
+      <title>12 Pieces</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>8268</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670430470</id>
+    <published>2017-08-26T12:25:31-06:00</published>
+    <updated>2017-08-26T12:25:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/waterproof-brow-mascara-01-id-8227"/>
+    <title>Waterproof Brow Mascara 01</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/browmascara01.jpg?v=1504329590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Waterproof Brow Mascara 01</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670430470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>8227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670422790</id>
+    <published>2017-08-26T12:23:45-06:00</published>
+    <updated>2017-08-26T12:23:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/waterproof-brow-mascara-02-id-8226"/>
+    <title>Waterproof Brow Mascara 02</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/browmascara02.jpg?v=1504329591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Waterproof Brow Mascara 02</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670422790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>8226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670408518</id>
+    <published>2017-08-26T12:20:57-06:00</published>
+    <updated>2017-08-26T12:20:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/brown-cosmetic-pencil-eyebrow-id-8315"/>
+    <title>Brown Cosmetic Pencil Eyebrow</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/brownbrowpencil.jpg?v=1527386250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brown Cosmetic Pencil Eyebrow</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670408518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>8315</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670399430</id>
+    <published>2017-08-26T12:18:33-06:00</published>
+    <updated>2017-08-26T12:18:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/p6-colors-makeup-concealer-palette-id-7604"/>
+    <title>P6 Colors Makeup Concealer Palette</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/6-palette-concealer.JPG?v=1504329455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">P6 Colors Makeup Concealer Palette</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670399430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7604</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670151174</id>
+    <published>2017-08-26T11:34:19-06:00</published>
+    <updated>2017-08-26T11:34:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/nose-facial-cleaning-brush-1x-id-7760"/>
+    <title>Nose / Facial Cleaning Brush 1x</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/nose-cleaning-brush.JPG?v=1504329414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nose / Facial Cleaning Brush 1x</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670151174</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>7760</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670140422</id>
+    <published>2017-08-26T11:32:06-06:00</published>
+    <updated>2017-08-26T11:32:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cosmetic-blending-sponge-id-8029"/>
+    <title>Cosmetic Blending Sponge</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/blend.JPG?v=1527386300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cosmetic Blending Sponge</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670140422</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>8029</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

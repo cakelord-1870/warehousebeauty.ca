@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/nail-art.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2018-05-20T15:37:30-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11669097286</id>
+    <published>2018-05-20T15:37:30-06:00</published>
+    <updated>2018-05-20T15:37:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/chameleon-chrome-glitter-flakes-nail-art-id-8223"/>
+    <title>Chameleon Chrome Glitter Flakes Nail Art CT150HT</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/chameleonflake.jpg?v=1527386275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Turquoise color only.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669097286</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>CT150HT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1328388079694</id>
+    <published>2018-04-19T10:25:30-06:00</published>
+    <updated>2018-04-19T10:25:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/muiltipack-glass-rhinestone-6x-size-1728pcs"/>
+    <title>Muiltipack Glass Rhinestone 6x Size 1728pcs</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/rhinemultipack.jpg?v=1524155189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Glass shiny rhinestones for nail art. 6x different sizes in 1 pack. total of 1728 (approx) rhinestones in each bag)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1328388079694</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>8907</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12078636358</id>
+    <published>2017-09-24T01:17:37-06:00</published>
+    <updated>2017-09-24T01:17:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/rhinestone-wax-pencil-pick-up-tool-id-8478"/>
+    <title>Rhinestone Wax Pencil Pick Up Tool</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/waxpencil.jpg?v=1506237646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1 Piece. Wax center pencil to pick up rhinestones easily for nail art work.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12078636358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>8478</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11701321862</id>
+    <published>2017-08-31T12:26:15-06:00</published>
+    <updated>2017-08-31T12:26:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/glass-rhinestone-nail-art-1440pcs"/>
+    <title>Glass Rhinestone Nail Art 1440pcs</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/glassrhine.jpg?v=1504329277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Available in sizes #6,#8,#10 1440pcs each bag.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11701321862</id>
+      <title>#6</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11701321862</id>
+      <title>#8</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11701321862</id>
+      <title>#10</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11669092934</id>
+    <published>2017-08-26T08:29:20-06:00</published>
+    <updated>2017-08-26T08:29:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/holographic-powder-unicorn-1g-id-8219"/>
+    <title>Holographic Powder Unicorn 1g</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/holographicunicorn.jpg?v=1504329431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holographic Powder Unicorn 1g</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669092934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SL130</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11669090310</id>
+    <published>2017-08-26T08:28:19-06:00</published>
+    <updated>2017-08-26T08:28:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/30-pack-striping-tape-id-3554"/>
+    <title>30 pack striping tape</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/striping.JPG?v=1527384789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Very thin striping tape for nail art designs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669090310</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>3554</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11669082438</id>
+    <published>2017-08-26T08:27:07-06:00</published>
+    <updated>2017-08-26T08:27:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/323-pink-builder-gel-0-5oz-id-7899"/>
+    <title>323 Pink Builder Gel 0.5oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/301_to_325_jelly_gel_e9b3945c-48e3-46c5-a3fa-910f38243e23.png?v=1527384792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">323 Pink Builder Gel 0.5oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669082438</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7899</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11669078918</id>
+    <published>2017-08-26T08:25:18-06:00</published>
+    <updated>2017-08-26T08:25:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/321-pink-builder-gel-0-5oz-id-7898"/>
+    <title>321 Pink Builder Gel 0.5oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/301_to_325_jelly_gel_877c145e-8392-4099-82b7-2c8459a9f41c.png?v=1527384792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">321 Pink Builder Gel 0.5oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669078918</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7898</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11669046854</id>
+    <published>2017-08-26T08:18:58-06:00</published>
+    <updated>2017-08-26T08:18:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/nail-dotting-pens-tools-5-per-pack-id-179"/>
+    <title>Nail Dotting Pens tools 5 per pack</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/179.jpg?v=1504329347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">To add detail to polish. One end has a large ball and the other end has a small one.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669046854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>179</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11669041286</id>
+    <published>2017-08-26T08:18:00-06:00</published>
+    <updated>2017-08-26T08:18:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/5g-jar-chrome-nail-powder-id-7789"/>
+    <title>5g jar chrome nail powder</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/chrome-nails.png?v=1527384812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Use on top of a cured no-wipe top coat</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669041286</id>
+      <title>Silver (chrome)</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>7789</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669041286</id>
+      <title>Gold</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>7789</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669041286</id>
+      <title>Red</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>7789</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669041286</id>
+      <title>Green</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>7789</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+</feed>

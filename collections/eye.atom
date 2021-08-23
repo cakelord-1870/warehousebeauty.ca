@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/eye.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2017-12-25T15:03:04-07:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/85673213958</id>
+    <published>2017-12-25T15:03:04-07:00</published>
+    <updated>2017-12-25T15:03:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/abt-1021-eyelash-curling-curler-id-8551"/>
+    <title>ABT 1021 Eyelash Curling Curler</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/abt1021.jpg?v=1527384826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tool for crimping / curling eyelashes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/85673213958</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>8551</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670450758</id>
+    <published>2017-08-26T12:28:52-06:00</published>
+    <updated>2017-08-26T12:28:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/waterproof-brow-mascara-04-id-8228"/>
+    <title>Waterproof Brow Mascara 04</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/browmascara04.jpg?v=1504329593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Waterproof Brow Mascara 04</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670450758</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>8228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670445446</id>
+    <published>2017-08-26T12:28:05-06:00</published>
+    <updated>2017-08-26T12:28:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/waterproof-brow-mascara-03-id-8225"/>
+    <title>Waterproof Brow Mascara 03</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/waterproof03.jpg?v=1504329592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Waterproof Brow Mascara 03</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670445446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>8225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670441222</id>
+    <published>2017-08-26T12:27:10-06:00</published>
+    <updated>2017-08-26T12:27:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/p28-colors-eyeshadow-palette-makeup-set-id-7600"/>
+    <title>15 Colors E-1 Eyeshadow Mini</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/15-eyeshadow.jpg?v=1527384765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Small size eye shadow set. Natural colors.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670441222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670434694</id>
+    <published>2017-08-26T12:26:16-06:00</published>
+    <updated>2017-08-26T12:26:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/white-eyeliner-pencil-waterproof-id-8268"/>
+    <title>1x White Eyeliner Pencil Waterproof</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/whiteeyeliner_grande_4943298c-33e2-476a-99cc-e13c2bb856d6.jpg?v=1527384773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.25 - 12.00
+            <a href="https://warehousebeauty.ca/products/white-eyeliner-pencil-waterproof-id-8268">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Also good for laser outlining on the skin.</p>
+<p>1x Piece or 12 Pieces packs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670434694</id>
+      <title>1 Piece</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>8268</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670434694</id>
+      <title>12 Pieces</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>8268</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670430470</id>
+    <published>2017-08-26T12:25:31-06:00</published>
+    <updated>2017-08-26T12:25:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/waterproof-brow-mascara-01-id-8227"/>
+    <title>Waterproof Brow Mascara 01</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/browmascara01.jpg?v=1504329590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Waterproof Brow Mascara 01</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670430470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>8227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670422790</id>
+    <published>2017-08-26T12:23:45-06:00</published>
+    <updated>2017-08-26T12:23:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/waterproof-brow-mascara-02-id-8226"/>
+    <title>Waterproof Brow Mascara 02</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/browmascara02.jpg?v=1504329591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Waterproof Brow Mascara 02</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670422790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>8226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670408518</id>
+    <published>2017-08-26T12:20:57-06:00</published>
+    <updated>2017-08-26T12:20:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/brown-cosmetic-pencil-eyebrow-id-8315"/>
+    <title>Brown Cosmetic Pencil Eyebrow</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/brownbrowpencil.jpg?v=1527386250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brown Cosmetic Pencil Eyebrow</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670408518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>8315</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/lash-application.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2021-08-18T11:46:32-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688367942</id>
+    <published>2021-08-18T11:46:32-06:00</published>
+    <updated>2021-08-18T11:46:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/terry-head-band-white"/>
+    <title>Terry Head Band White</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/headbandgz.jpg?v=1504329486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White terry cotton head band. 1 size fits most. Washable with velcro.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688367942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4118289186894</id>
+    <published>2019-09-20T10:58:01-06:00</published>
+    <updated>2019-09-20T10:58:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/eyelash-eyebrow-tonic-and-essence"/>
+    <title>Eyelash Eyebrow Tonic and Essence</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/tonic-and-essence.jpg?v=1568999103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4118289186894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4116317012046</id>
+    <published>2019-09-19T16:09:59-06:00</published>
+    <updated>2019-09-19T16:09:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/just-lash-foam"/>
+    <title>Just Lash Foam</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/justfoam.jpg?v=1568931044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4116317012046</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688379334</id>
+    <published>2019-09-19T15:27:51-06:00</published>
+    <updated>2019-09-19T15:27:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/lint-free-eye-patch-pink"/>
+    <title>Lint Free Eye Patch Pink</title>
+    <s:type>patches</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/pinkpatch.jpg?v=1504329200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>patches<br>
+        <strong>Price: </strong>
+            1.25 - 42.50
+            <a href="https://warehousebeauty.ca/products/lint-free-eye-patch-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thin stick on eye patches. 1 pair each. Low allergy reaction.</p>
+<p>50 pair packs also available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379334</id>
+      <title>1 Pair</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379334</id>
+      <title>50 pair</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688376582</id>
+    <published>2018-10-07T12:31:15-06:00</published>
+    <updated>2018-10-07T12:31:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/eyelash-glue-shaker"/>
+    <title>Eyelash Glue Shaker</title>
+    <s:type>shaker</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/shaker.jpg?v=1504329193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>shaker<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Electric shaker for your lash glue. Plugs in, not portable.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688376582</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1317019058254</id>
+    <published>2018-03-31T11:22:28-06:00</published>
+    <updated>2018-03-31T11:22:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dental-mirror-plastic-handle-sterilized"/>
+    <title>Dental Mirror Plastic Handle Sterilized</title>
+    <s:type></s:type>
+    <s:vendor>Pro Dental</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/plastic_dental_copy.JPG?v=1527386318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pro Dental<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50 - 100.00
+            <a href="https://warehousebeauty.ca/products/dental-mirror-plastic-handle-sterilized">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plastic sterilized dental mirror. Each mirror is in sealed packaging. <br>Bulk packs</p>
+<ul>
+<li>10pcs for $10 ($1 each)</li>
+<li>50pcs for $37.50 ($0.75 each)</li>
+<li>200pcs for $100 ($0.50 each)</li>
+</ul>
+<p>Need more than whats listed? Email us at info@warehousebeauty.ca</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1317019058254</id>
+      <title>1pc</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>8663</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1317019058254</id>
+      <title>10pcs</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>8663</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1317019058254</id>
+      <title>50pcs</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku>8663</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1317019058254</id>
+      <title>200pcs</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>8663</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1317018304590</id>
+    <published>2018-03-31T11:20:49-06:00</published>
+    <updated>2018-03-31T11:20:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/extra-large-dental-mirror"/>
+    <title>Extra Large Dental Mirror</title>
+    <s:type></s:type>
+    <s:vendor>Pro Dental</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/xlmirror.jpg?v=1522516943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pro Dental<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Extra Large Dental Mirror. High quality construction extra large size. <br><br></p>
+<p>Black plastic handle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1317018304590</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>8635</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/81385488390</id>
+    <published>2017-12-21T09:47:00-07:00</published>
+    <updated>2017-12-21T09:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/lash-extension-under-eye-patches"/>
+    <title>Lash Extension Under Eye Patches</title>
+    <s:type>patches</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4534_copy.jpg?v=1513874822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>patches<br>
+        <strong>Price: </strong>
+            1.25 - 42.50
+            <a href="https://warehousebeauty.ca/products/lash-extension-under-eye-patches">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1. Fabric large size</p>
+<p>2. Fabric medium size</p>
+<p>3. Fabric skinny size</p>
+<p>4. Clear large size</p>
+<p>5. Boat Shape fabric (with cut lines)</p>
+<p>6. Boat Shape clear (with cut lines)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>1 / 1x Pair</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>1 / 50x Pairs</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>2 / 1x Pair</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>2 / 50x Pairs</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>3 / 1x Pair</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>3 / 50x Pairs</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>4 / 1x Pair</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>4 / 50x Pairs</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>5 / 1x Pair</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>5 / 50x Pairs</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>6 / 1x Pair</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385488390</id>
+      <title>6 / 50x Pairs</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/81385422854</id>
+    <published>2017-12-21T09:46:56-07:00</published>
+    <updated>2017-12-21T09:46:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/lash-pillow-memory-foam"/>
+    <title>Lash Pillow Memory foam</title>
+    <s:type></s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4507.jpg?v=1513874820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue velvet cover, zippered. Plush memory foam. Measures 19"x12"x4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385422854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku/>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/81385390086</id>
+    <published>2017-12-21T09:46:54-07:00</published>
+    <updated>2017-12-21T09:46:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/microbrush-dispensor"/>
+    <title>Microbrush Dispensor</title>
+    <s:type></s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/microbrushdeispensor.jpg?v=1513874816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Store your microbrushes and get them one at a time easily. Push down on the white lever to a microbrush one at a time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/81385390086</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/80621436934</id>
+    <published>2017-12-20T11:30:59-07:00</published>
+    <updated>2017-12-20T11:30:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/1-box-microblading-plastic-wrap-42mm-200m"/>
+    <title>1 Box Microblading Plastic Wrap 42mm*200m</title>
+    <s:type></s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/microrapplastic.jpg?v=1527384760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1 Box Microblading Plastic Wrap 42mm*200m. Wrap eyebrows for microblading treatments. <br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/80621436934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>8620</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/80621404166</id>
+    <published>2017-12-20T11:30:59-07:00</published>
+    <updated>2017-12-20T11:30:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/3m-microfoam-lash-tape-1in-x-5-5yd"/>
+    <title>3M Microfoam Lash Tape 1in x 5.5yd 1&quot; x 5.5yd</title>
+    <s:type></s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4490.jpg?v=1527384805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00 - 15.00
+            <a href="https://warehousebeauty.ca/products/3m-microfoam-lash-tape-1in-x-5-5yd">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now available is 3M foam thicker lash tape. 1x roll each 1" wide by 5.5 yards long. 2" x 5.5Y long rolls also available, extra wide. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/80621404166</id>
+      <title>1&quot;</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>8615</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/80621404166</id>
+      <title>2&quot;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>8801</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/80621371398</id>
+    <published>2017-12-20T11:30:58-07:00</published>
+    <updated>2017-12-20T11:30:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/clear-medical-tape-1x"/>
+    <title>Clear Medical Tape 1x</title>
+    <s:type></s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/medicaltape1.jpg?v=1527386279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clear Medical Tape 1x roll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/80621371398</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12114870278</id>
+    <published>2017-10-04T09:58:05-06:00</published>
+    <updated>2017-10-04T09:58:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/thermometer-hygrometer-humidity-temperature-monitor-white"/>
+    <title>Thermometer Hygrometer Humidity Temperature Monitor</title>
+    <s:type></s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4374.jpg?v=1507132689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small electronic display of temperature and humidity. Approx 1.5" Color may change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114870278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12114866054</id>
+    <published>2017-10-04T09:55:56-06:00</published>
+    <updated>2017-10-04T09:55:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/professional-eyelash-tweezer"/>
+    <title>Professional Eyelash Tweezer</title>
+    <s:type>tweezer</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/40_0420477c-2e2a-49b3-b58e-31ae1d9cac56.jpg?v=1507911719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>tweezer<br>
+        <strong>Price: </strong>
+            9.00 - 12.00
+            <a href="https://warehousebeauty.ca/products/professional-eyelash-tweezer">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Many different styles to choose from. Stainless steel. Use the four digit ID code to choose the tweezer you would like to order.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>1018</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>1017</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>1016</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>7950</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>7974</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>7769</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>8120</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>8119</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>7768</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>7951</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>6285</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>6557</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>ST-17</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>6680</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>8346</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>7767</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>8334</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>8509</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>8510</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>8511</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12114866054</id>
+      <title>7976</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688379718</id>
+    <published>2017-08-29T00:18:45-06:00</published>
+    <updated>2017-08-29T00:18:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/lint-free-eye-patch-silver"/>
+    <title>Lint Free Eye Patch Silver</title>
+    <s:type>patches</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/silveryemix.jpg?v=1504329208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>patches<br>
+        <strong>Price: </strong>
+            1.25 - 42.50
+            <a href="https://warehousebeauty.ca/products/lint-free-eye-patch-silver">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thin stick on eye patches. 1 pair each. Low allergy reaction. Symmetrical design.</p>
+<p>50 pair packs also available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379718</id>
+      <title>1 Pair</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379718</id>
+      <title>50 Pair</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688379206</id>
+    <published>2017-08-29T00:18:32-06:00</published>
+    <updated>2017-08-29T00:18:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/lint-free-eye-patch-purple"/>
+    <title>Lint Free Eye Patch Purple</title>
+    <s:type>patches</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/purplepatch.jpg?v=1504329204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>patches<br>
+        <strong>Price: </strong>
+            1.25 - 42.50
+            <a href="https://warehousebeauty.ca/products/lint-free-eye-patch-purple">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thin stick on eye patches. 1 pair each. Low allergy reaction.</p>
+<p>50 pair packs also available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379206</id>
+      <title>1 Pair</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379206</id>
+      <title>50 Pair</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688379142</id>
+    <published>2017-08-29T00:18:31-06:00</published>
+    <updated>2017-08-29T00:18:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/3m-micropore-lash-tape"/>
+    <title>3M Micropore Lash Tape</title>
+    <s:type>Lash Tape</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/3mtape.jpg?v=1527384805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Lash Tape<br>
+        <strong>Price: </strong>
+            2.50 - 42.00
+            <a href="https://warehousebeauty.ca/products/3m-micropore-lash-tape">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>High quality lash tape with just the right amount of stick. Made by 3M. Available in 24 piece box and singles.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379142</id>
+      <title>1 Piece</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>6682</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688379142</id>
+      <title>24 Pack</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>7993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688377734</id>
+    <published>2017-08-29T00:17:57-06:00</published>
+    <updated>2017-08-29T00:17:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/chargable-portable-nanomister-for-eylash-extensions"/>
+    <title>Chargable Portable Nanomister for eylash extensions</title>
+    <s:type>Nano Mister</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/nanomist.jpg?v=1527386276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Nano Mister<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Helps with provide correct humidity in order for the lash glue to work best. Chargeable unit by USB (provided) and gives off a super fine water mist.</p>
+<p>Only use with <span style="text-decoration: underline;"><strong>distilled wate</strong></span>r and nothing else, do not mix additives into the water.</p>
+<p>Minerals in the tap water will clog the ultra fine exit of the unit. 1 Year warranty.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688377734</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688377606</id>
+    <published>2017-08-29T00:17:56-06:00</published>
+    <updated>2017-08-29T00:17:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/crystal-palette-octagon"/>
+    <title>Crystal Palette Octagon</title>
+    <s:type>glue palette</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/crystal_pallet.jpg?v=1527386304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>glue palette<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glass palette to place glue on. Helps slow the dry time of the glue droplet to increase the use of your glue. Check out jade stone stickers to help keep it clean.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688377606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688377350</id>
+    <published>2017-08-29T00:17:44-06:00</published>
+    <updated>2017-08-29T00:17:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/korea-jade-stone"/>
+    <title>Korea Jade Stone</title>
+    <s:type>glue palette</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3943.jpg?v=1504329488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>glue palette<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jade stones help keep your glue droplet cool and last longer. Check out the jade stone stickers to help keep your jade stone clean.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688377350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688377094</id>
+    <published>2017-08-29T00:17:37-06:00</published>
+    <updated>2017-08-29T00:17:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/korea-eyelash-glue-palette-sticker"/>
+    <title>Korea Eyelash Glue Palette Sticker</title>
+    <s:type>glue palette</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3949.jpg?v=1504329487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>glue palette<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disposable stick on, peel off sticker to place on your jade stone. No more cleaning stones.</p>
+<p>30pcs per pack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688377094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688376710</id>
+    <published>2017-08-29T00:17:34-06:00</published>
+    <updated>2017-08-29T00:17:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/eyelash-blower"/>
+    <title>Eyelash Blower</title>
+    <s:type>puffer</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/blueblower.jpg?v=1504329187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>puffer<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Economical blower/puffer for lashes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688376710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3457</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688376198</id>
+    <published>2017-08-29T00:17:23-06:00</published>
+    <updated>2017-08-29T00:17:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/eyelash-fan"/>
+    <title>Eyelash Fan</title>
+    <s:type>lash fan</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/minifan.jpg?v=1504329191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>lash fan<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hang this around your neck or place by the client. Helps suck air and glue fumes away from their eyes.</p>
+<p>Battery powered.</p>
+<p>Back in stock.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688376198</id>
+      <title>White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688376198</id>
+      <title>Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688376198</id>
+      <title>Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688376006</id>
+    <published>2017-08-29T00:17:15-06:00</published>
+    <updated>2017-08-29T00:17:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/eyelash-band-holder"/>
+    <title>Eyelash Band Holder</title>
+    <s:type>glue palette</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3942.jpg?v=1504329178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>glue palette<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Convenient holder to place your strip of lashes on, fans them out for picking.</p>
+<p>1 piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688376006</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

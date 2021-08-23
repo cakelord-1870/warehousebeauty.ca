@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/chemicals.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-10-11T10:47:36-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675295174</id>
+    <published>2020-10-11T10:47:36-06:00</published>
+    <updated>2020-10-11T10:47:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/barbicide-64oz-id-778"/>
+    <title>Barbicide 64oz Barber Salon Disinfectant</title>
+    <s:type></s:type>
+    <s:vendor>King Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/barb64.jpg?v=1527384877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Research<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Half Gallon of Barbicide for disinfection of plastic and metal tools. Made by King Research.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675295174</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>778</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688367046</id>
+    <published>2020-10-07T14:30:19-06:00</published>
+    <updated>2020-10-07T14:30:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/accel-preempt-rtu-wipes-6x7"/>
+    <title>Preempt RTU WIPES 6x7</title>
+    <s:type>Disinfectant</s:type>
+    <s:vendor>Accel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/wipesrtu.png?v=1527384832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Accel<br>
+        <strong>Type: </strong>Disinfectant<br>
+        <strong>Price: </strong>
+            22.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wipes for surface cleaning, tables, beds, pedicure chairs. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688367046</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.40</s:price>
+      <s:sku>8051</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675281158</id>
+    <published>2018-05-20T15:37:31-06:00</published>
+    <updated>2018-05-20T15:37:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/barbicide-disinfecting-jar-21oz-mid-size-id-890"/>
+    <title>Barbicide Disinfecting Jar 21oz Mid Size</title>
+    <s:type></s:type>
+    <s:vendor>King Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/100_0865_grande_bad874e5-2233-4ccf-af4e-ac78e083d7c9.jpg?v=1527384877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Research<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b> </b>Midsize Jar—Base 4 1/4? diameter, Height 8" tall, capacity 21 Fl. Oz. (621 mL)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675281158</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>890</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688365574</id>
+    <published>2018-05-13T10:59:08-06:00</published>
+    <updated>2018-05-13T10:59:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/white-disinfecting-sterilizing-tray"/>
+    <title>White Disinfecting Sterilizing Tray</title>
+    <s:type>Disinfectant</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/stertraywhite_ae87ba57-d59d-4163-8a11-0ff63c2dfa29.jpg?v=1504329597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Disinfectant<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Convenient tray for sterilizing your tools. Works with accel/preempt products</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688365574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>100</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675269318</id>
+    <published>2017-08-27T05:15:12-06:00</published>
+    <updated>2017-08-27T05:15:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/barbicide-disinfecting-jar-37oz-id-777"/>
+    <title>Barbicide Disinfecting Jar 37oz</title>
+    <s:type></s:type>
+    <s:vendor>King Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/100_0673_grande_2785f50f-d5f9-4ef9-8c67-8f8878f9c030.jpg?v=1527384878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Research<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tall Jar—Base 4 1/4 diameter, Height 11 1/2 tall, capacity 37 Fl. Oz. (1.09 L)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675269318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.50</s:price>
+      <s:sku>777</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

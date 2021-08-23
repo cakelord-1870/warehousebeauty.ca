@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/massage.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2019-09-24T10:21:06-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4160662601806</id>
+    <published>2019-09-24T10:21:06-06:00</published>
+    <updated>2019-09-24T10:21:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/rectangle-jade-stone"/>
+    <title>Rectangle Jade Stone</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/jade-rectangle-white-bg.png?v=1569344202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4160662601806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4160625573966</id>
+    <published>2019-09-24T10:21:06-06:00</published>
+    <updated>2019-09-24T10:21:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/pink-jade-stone-tool"/>
+    <title>Pink Jade Stone Tool</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/jade-pink2-white-bg.png?v=1569342117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4160625573966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4158956896334</id>
+    <published>2019-09-23T16:42:42-06:00</published>
+    <updated>2019-09-23T16:42:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/moon-jade-massage-stone"/>
+    <title>Moon Jade Massage Stone</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/moon-jade-white-bg.png?v=1569279427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4158956896334</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4118586785870</id>
+    <published>2019-09-20T13:05:10-06:00</published>
+    <updated>2019-09-20T13:05:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/massage-oil-gallon-tropical-fruit"/>
+    <title>Massage Oil Gallon Tropical Fruit</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/trop_massage.jpg?v=1569008647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4118586785870</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671494470</id>
+    <published>2018-12-06T11:32:17-07:00</published>
+    <updated>2018-12-06T11:32:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/face-cushion-for-massage-tables-black-id-7623"/>
+    <title>Face Cushion for Massage Tables Black</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/massagecradleblack.jpg?v=1504329225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Face Cushion for Massage Tables Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671494470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7623</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671698630</id>
+    <published>2018-04-10T11:05:00-06:00</published>
+    <updated>2018-04-10T11:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/28-inch-blm201-black-portable-massage-table-id-3830"/>
+    <title>28 INCH BLM201 Black Portable Massage Table</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/BLM201BLACK1.jpeg?v=1527384784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium portable massage table. Ultra plush 4 inch foam. Premium wood throughout.</p>
+<p>-Adjustable leg height</p>
+<p>-Side bolsters</p>
+<p>-Arm sling</p>
+<p>-Carry Case</p>
+<p>-42lb carry weight</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671698630</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>3830</s:sku>
+      <s:grams>50000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671659846</id>
+    <published>2017-08-26T16:26:59-06:00</published>
+    <updated>2017-08-26T16:26:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/fleece-pad-sheet-cover-id-7932"/>
+    <title>FLEECE PAD SHEET cover</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/fleecepas_739964eb-1473-4874-b96b-b119d963da68.jpg?v=1504329255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>This is the pad only. No head rest cover included. fits tables 28-32" wide</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671659846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>7932</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671501062</id>
+    <published>2017-08-26T15:52:42-06:00</published>
+    <updated>2017-08-26T15:52:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/pillowcase-nonwoven-21x27-75-graham-id-7616"/>
+    <title>Pillowcase Nonwoven 21&quot;x27.75&quot; Graham</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/pillowcovergraham.jpg?v=1504328995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pillowcase Nonwoven 21"x27.75" Graham</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671501062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>7616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671497990</id>
+    <published>2017-08-26T15:51:43-06:00</published>
+    <updated>2017-08-26T15:51:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/plastic-face-cradle-for-massage-table-id-7622"/>
+    <title>Plastic Face Cradle for Massage Table</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cradleplastic.jpg?v=1504329005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Plastic Face Cradle for Massage Table</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671497990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>7622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671487686</id>
+    <published>2017-08-26T15:48:29-06:00</published>
+    <updated>2017-08-26T15:48:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/disposable-head-rest-cover-50-pcs-id-7773"/>
+    <title>Disposable head rest cover 50 pcs</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/disp-face-rest.JPG?v=1527386330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Disposable head rest cover 50 pcs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671487686</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>7773</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671478534</id>
+    <published>2017-08-26T15:47:38-06:00</published>
+    <updated>2017-08-26T15:47:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/double-bottle-holster-id-7931"/>
+    <title>Double Bottle Holster</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3788.JPG?v=1527386335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Double Bottle Holster</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671478534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7931</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671474822</id>
+    <published>2017-08-26T15:46:42-06:00</published>
+    <updated>2017-08-26T15:46:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/single-bottle-holster-id-7930"/>
+    <title>Single Bottle Holster</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3789.JPG?v=1504329289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Single Bottle Holster</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671474822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>7930</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671466310</id>
+    <published>2017-08-26T15:44:24-06:00</published>
+    <updated>2017-08-26T15:44:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/polycotton-face-rest-cover-head-rest-id-7619"/>
+    <title>Massage Table Face Rest Cover Horseshoe</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/head_rest_cover.JPG?v=1504329272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00 - 5.00
+            <a href="https://warehousebeauty.ca/products/polycotton-face-rest-cover-head-rest-id-7619">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Massage Table head rest cover. Flannel or Polycotton. Horseshoe style.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671466310</id>
+      <title>Flannel</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>3615</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671466310</id>
+      <title>Fleece</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7929</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671466310</id>
+      <title>Polycotton</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>7619</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

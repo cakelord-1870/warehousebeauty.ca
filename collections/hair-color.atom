@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/hair-color.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2017-08-31T10:13:16-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11700924934</id>
+    <published>2017-08-31T10:13:16-06:00</published>
+    <updated>2017-08-31T10:13:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/life-color-plus-mineral-collection-pack"/>
+    <title>Life Color Plus Mineral Collection Pack</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/packagemineral.jpg?v=1504329123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1x Of each Life color plus mineral collection</p>
+<p>1x Mineral Swatch Book</p>
+<p>1x Tone on Tone 1000ml Developer</p>
+<p>1x Silver (purple) Shampoo 250ml</p>
+<p>1x Silver (purple) Mask (conditioner) 250ml</p>
+<p>$78 value limit 1/customer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11700924934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11697459974</id>
+    <published>2017-08-30T17:07:28-06:00</published>
+    <updated>2017-08-30T17:07:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/b-life-ammonia-free-color"/>
+    <title>B. Life Ammonia Free Color</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/blife.jpg?v=1527384869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00 - 30.00
+            <a href="https://warehousebeauty.ca/products/b-life-ammonia-free-color">(46 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="five columns ">
+<a href="http://farmavita.com/img/colorazioni/blife-big.jpg" data-rel="prettyPhoto" title=""><img src="http://farmavita.com/img/colorazioni/blife.jpg" alt="" class="scale-with-grid"></a> <em></em>
+</div>
+<div class="six">
+<h3><span></span></h3>
+<h3><span style="color: #cc0000;"><strong>Free Sample Packs and Intro Packs to purchase are available for hair salons</strong></span></h3>
+<h3><span style="color: #cc0000;"><strong>Please email us: info@warehousebeauty.ca</strong></span></h3>
+<p><span>Sample Packs can only be shipped to commercial location hair salons.</span></p>
+<h3><span>B.LIFE COLOR <br> enriched with Argan oil for brilliant colors</span></h3>
+<p><strong>B.life color</strong> is a gentle, ammonia free hair colouring cream, enriched with Argan oil.<br> The gentle cream contains conditioning and lenitive components for a fully protection during the colour treatment. The gentle formula is enriched with Argan oil that softens, revitalizes, moisturizes and improves hair elasticity. B.life contains in its formula the highest standard of ammonia free hair colouring cream, for multifaceted color and hyper natural look.<br> Nourishment and protection from inside for healthy, natural, full of shine hair! <br> <br> <strong>Argan Oil</strong><br> Argan oil is a luxury oil, extracted from the nut kernels of the Argan tree (Argania spinosa). It is exceptionally rich in Vitamins A, B1, B2, B6, E, carotene and omega 6 and 9 essential fatty acids which give the oil anti-free radicals properties and therefore anti-ageing properties. Argan oil helps to soften, strengthen, moisturize and protect hair while increasing shine and vibrancy.<br> <br> <strong>High Quality Pigments</strong><br> The colour pigments are so small they easily penetrate deeply into the hair fibre; Once the colour pigment has penetrated they develop into large colour pigments, which hold into the hair assuring optimum grey coverage and long lasting colour.<br> <br> <strong>Fruity Fragrance</strong><br> The new fragrance with fruit tones gives clients in salon a pleasurable experience!<br> <br> Hair Colouring Cream <br> Tube of 100 ml</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>2.0</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>3.0</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>4.0</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>5.0</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.0</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.0</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>8.0</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>9.0</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>10.0</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.31</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.31</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>5.32</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.32</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>5.34</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.34</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>5.35</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.35</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.35</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>5.77</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.77</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.77</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.1</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.1</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.13</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>8.13</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>9.13</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>5.3</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.3</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.3</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>8.3</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>9.3</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>9.01</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>9.02</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>9.03</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>4.52</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>5.5</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.52</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.66</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.66</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>6134</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.62</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>5.4</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.4</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>7.43</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>5.20</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>6.26</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697459974</id>
+      <title>Swatch Book</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11697390278</id>
+    <published>2017-08-30T16:39:42-06:00</published>
+    <updated>2017-08-30T16:39:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/life-color-plus-100ml"/>
+    <title>Life Color Plus 100ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/life_color.jpg?v=1504329095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="five columns">
+<a href="http://farmavita.com/img/life_color_big.jpg" data-rel="prettyPhoto" title=""><img src="http://farmavita.com/img/life_color.jpg" alt="" class="scale-with-grid"></a><strong>Free Sample Packs and Intro Packs to purchase are available for hair salons</strong>
+</div>
+<div class="six">
+<h3><span style="color: #cc0000;">Please email us: info@warehousebeauty.ca</span></h3>
+<h3>This product is intended for professionals only. Developer is not included.</h3>
+<p><span>Sample Packs can only be shipped to commercial location hair salons.</span></p>
+<h3><span>LIFE COLOR PLUS <br>Excelsa Hp technology</span></h3>
+<p><strong>INTENSE REPAIR AND MAXIMUM PROTECTION TO PROMOTE A BETTER COLOUR PENETRATION</strong><br> Low molecular weight oligopeptides are the products of gentle enzymatic hydrolysis of the protein rich Bertholletia Excelsa fruit. The small molecular size allow to better penetrate through the hair fibre and bind tightly to the hair proteins, helping the restructuring and providing great benefits from within. Moreover, a special anti-irritation molecule creates a protective film for skin and hair during the application.<br> <br> <strong>IN DEPTH AND LASTING MOISTURIZING </strong><br> The deep penetration through the hair fibre cuticle into the cortex combined with the real capacity of these molecules to bind water, allow to provide lasting and deep moisturization. Moreover they allow to maintain the proper water balance of the hair versus humidity, with evident aesthetic effect on the styling. The hair results strong, bright and easy to comb.<br> <br> <strong>BALANCED FORMULA: LONG LASTING COLOR AND 100% WHITE COVERAGE</strong><br> The interaction between moisturizing oligopeptides and high quality pigments results in brilliant and rich colours, with an optimum degree of coverage (100% of white hair). The precise balancing of the formulation ensures stabilized colours, avoiding fading and keeping it bright for a long time. The base is enriched with a revolutionary raw material that absorbs and destroys the ammonia smell.<br> <br> <strong>DIRECTIONS:</strong><br> Pour 50 ml of Life Color Plus into a plastic container and mix with 75 ml of Cream Developer at 20 – 30 – 40 volumes or with 100 ml at 40 volumes in case of super-bleaching products. Mix Life Color Plus 1:1 with Cream Developer at 20 – 30 – 40 volumes to obtain a stronger colour.<br> <br> Hair Colouring Cream With Excelsa HP Technology<br> Tube of 100 ml</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697390278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666698310</id>
+    <published>2017-08-26T01:03:00-06:00</published>
+    <updated>2017-08-26T01:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/life-color-plus-book-large-id-6473"/>
+    <title>Life Color Plus Swatch Book</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/largecolorbook.jpg?v=1504329125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00 - 50.00
+            <a href="https://warehousebeauty.ca/products/life-color-plus-book-large-id-6473">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Life Color Plus Book.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666698310</id>
+      <title>Small</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666698310</id>
+      <title>Large</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/valentina-campos-hair-color.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2017-08-25T05:08:12-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656797126</id>
+    <published>2017-08-25T05:08:12-06:00</published>
+    <updated>2017-08-25T05:08:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-0-11-id-7877"/>
+    <title>Valentina Campos Hair Color 0.11</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC0-11.JPG?v=1504329526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656797126</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7877</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656791558</id>
+    <published>2017-08-25T05:07:14-06:00</published>
+    <updated>2017-08-25T05:07:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-8-45-id-7866"/>
+    <title>Valentina Campos Hair Color 8.45</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC8-45.JPG?v=1504329576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b> </b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656791558</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7866</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656788550</id>
+    <published>2017-08-25T05:06:21-06:00</published>
+    <updated>2017-08-25T05:06:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-5-64-id-7868"/>
+    <title>Valentina Campos Hair Color 5.64</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC5-64.JPG?v=1504329549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656788550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7868</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656786694</id>
+    <published>2017-08-25T05:05:19-06:00</published>
+    <updated>2017-08-25T05:05:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-8-11-id-7842"/>
+    <title>Valentina Campos Hair Color 8.11</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC8-11.JPG?v=1504329571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656786694</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7842</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656785286</id>
+    <published>2017-08-25T05:00:46-06:00</published>
+    <updated>2017-08-25T05:00:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-6-11-id-7841"/>
+    <title>Valentina Campos Hair Color 6.11</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC6-11.JPG?v=1504329554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656785286</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7841</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656772678</id>
+    <published>2017-08-25T04:59:39-06:00</published>
+    <updated>2017-08-25T04:59:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-6-4-id-7860"/>
+    <title>Valentina Campos Hair Color 6.4</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC6-4.JPG?v=1504329558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<b></b>A new low smell permanent hair color</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656772678</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656769094</id>
+    <published>2017-08-25T04:58:47-06:00</published>
+    <updated>2017-08-25T04:58:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-8-33-id-7853"/>
+    <title>Valentina Campos Hair Color 8.33</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC8-33.JPG?v=1504329574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656769094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7853</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656764422</id>
+    <published>2017-08-25T04:57:36-06:00</published>
+    <updated>2017-08-25T04:57:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-5-66-id-7870"/>
+    <title>Valentina Campos Hair Color 5.66</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC5-66.JPG?v=1504329550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b> </b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656764422</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7870</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656759558</id>
+    <published>2017-08-25T04:56:27-06:00</published>
+    <updated>2017-08-25T04:56:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-4-64-id-7867"/>
+    <title>Valentina Campos Hair Color 4.64</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC4-64.JPG?v=1504329541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656759558</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7867</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656755526</id>
+    <published>2017-08-25T04:55:24-06:00</published>
+    <updated>2017-08-25T04:55:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-6-5-id-7883"/>
+    <title>Valentina Campos Hair Color 6.5</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC6-5.JPG?v=1504329561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Valentina Campos Hair Color 6.5</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656755526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7883</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656753222</id>
+    <published>2017-08-25T04:53:47-06:00</published>
+    <updated>2017-08-25T04:53:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-0-88-id-7875"/>
+    <title>Valentina Campos Hair Color 0.88</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC0-88.JPG?v=1504329532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b> </b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656753222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7875</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656749830</id>
+    <published>2017-08-25T04:46:25-06:00</published>
+    <updated>2017-08-25T04:46:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-6-45-id-7864"/>
+    <title>Valentina Campos Hair Color 6.45</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC6-45.JPG?v=1504329560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656749830</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7864</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656721158</id>
+    <published>2017-08-25T04:44:51-06:00</published>
+    <updated>2017-08-25T04:44:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-5-4-id-7859"/>
+    <title>Valentina Campos Hair Color 5.4</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC5-4.JPG?v=1504329546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656721158</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7859</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656714246</id>
+    <published>2017-08-25T04:44:30-06:00</published>
+    <updated>2017-08-25T04:44:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-7-43-id-7857"/>
+    <title>Valentina Campos Hair Color 7.43</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC7-43.JPG?v=1504329567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656714246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7857</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656703430</id>
+    <published>2017-08-25T04:42:05-06:00</published>
+    <updated>2017-08-25T04:42:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-0-45-id-7873"/>
+    <title>Valentina Campos Hair Color 0.45</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC0-45.JPG?v=1504329530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b> </b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656703430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7873</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656694470</id>
+    <published>2017-08-25T04:40:32-06:00</published>
+    <updated>2017-08-25T04:40:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-5-77-id-7885"/>
+    <title>Valentina Campos Hair Color 5.77</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC5-77.JPG?v=1504329552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b> </b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656694470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7885</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656687622</id>
+    <published>2017-08-25T04:39:11-06:00</published>
+    <updated>2017-08-25T04:39:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-4-77-id-7884"/>
+    <title>Valentina Campos Hair Color 4.77</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC4-77.JPG?v=1504329542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656687622</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7884</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656679430</id>
+    <published>2017-08-25T04:37:33-06:00</published>
+    <updated>2017-08-25T04:37:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-4-5-id-7882"/>
+    <title>Valentina Campos Hair Color 4.5</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC4-5.JPG?v=1504329540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b> </b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656679430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7882</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656664966</id>
+    <published>2017-08-25T04:36:06-06:00</published>
+    <updated>2017-08-25T04:36:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-0-66-id-7876"/>
+    <title>Valentina Campos Hair Color 0.66</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC0-66.JPG?v=1504329531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b> </b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656664966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7876</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656645446</id>
+    <published>2017-08-25T04:33:48-06:00</published>
+    <updated>2017-08-25T04:33:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-7-45-id-7865"/>
+    <title>Valentina Campos Hair Color 7.45</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC7-45.JPG?v=1504329568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>A new low smell permanent hair color</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656645446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7865</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656637062</id>
+    <published>2017-08-25T04:32:29-06:00</published>
+    <updated>2017-08-25T04:32:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-6-77-id-7886"/>
+    <title>Valentina Campos Hair Color 6.77</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC6-77.JPG?v=1504329562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656637062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7886</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656622598</id>
+    <published>2017-08-25T04:29:54-06:00</published>
+    <updated>2017-08-25T04:29:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-0-00-id-7878"/>
+    <title>Valentina Campos Hair Color 0.00</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC0-00.JPG?v=1504329525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656622598</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7878</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656608966</id>
+    <published>2017-08-25T04:28:11-06:00</published>
+    <updated>2017-08-25T04:28:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-0-22-id-7874"/>
+    <title>Valentina Campos Hair Color 0.22</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC0-22.JPG?v=1504329527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656608966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7874</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656556678</id>
+    <published>2017-08-25T04:21:48-06:00</published>
+    <updated>2017-08-25T04:21:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-5-33-id-7850"/>
+    <title>Valentina Campos Hair Color 5.33</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC5-33.JPG?v=1504329545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656556678</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7850</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11656485510</id>
+    <published>2017-08-25T04:11:47-06:00</published>
+    <updated>2017-08-25T04:11:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/valentina-campos-hair-color-6-3-id-7846"/>
+    <title>Valentina Campos Hair Color 6.3</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/VC6-3.JPG?v=1504329556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A new low smell permanent hair color</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11656485510</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>7846</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

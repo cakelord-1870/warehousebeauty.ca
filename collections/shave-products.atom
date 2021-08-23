@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/shave-products.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-07-16T11:50:32-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11678490566</id>
+    <published>2020-07-16T11:50:32-06:00</published>
+    <updated>2020-07-16T11:50:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/infalab-liquid-styptic-id-8353"/>
+    <title>Infalab Liquid Styptic</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/infalab2.jpg?v=1504329464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Infalab Liquid Styptic stops bleeding for minor nicks and cuts for barbers and nail artists.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11678490566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>8353</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12081760326</id>
+    <published>2017-09-24T21:56:00-06:00</published>
+    <updated>2017-09-24T21:56:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/scalpmaster-8oz-lather-machine-cleaner-lathertime-id-8484"/>
+    <title>SCALPMASTER 8oz Lather Machine Cleaner Lathertime</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/LATHER-S_large_36914980-1a5f-42da-96a5-9924d6683974.jpg?v=1506311807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>Produces a rich lather to easily clean and extend the life of lather machines. Removes product build-up, lubricates internal parts, and helps prevent soap deposits. Use with Scalpmaster LATHER TIME lather machine for best results.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12081760326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>8484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12081754566</id>
+    <published>2017-09-24T21:52:30-06:00</published>
+    <updated>2017-09-24T21:52:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/8-oz-liquid-shave-cream-lathertime-id-8481"/>
+    <title>8 oz. Liquid Shave Cream Lathertime</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/LATHER-C_large_e4f692a7-9f8b-4ee5-8b83-8ea3345018bb.jpg?v=1527384819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Each bottle makes 2 full gallons of rich, thick, wet lather. Use with the Scalpmaster LATHER TIME lather machine for a superb shave. Can also be used with other lather machines</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12081754566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>8481</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12081151814</id>
+    <published>2017-09-24T19:41:52-06:00</published>
+    <updated>2017-09-24T19:41:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/magic-touch-styptic-0-5oz-id-8478"/>
+    <title>MAGIC TOUCH STYPTIC 0.5oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/magictouch.jpeg?v=1506311519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MAGIC TOUCH STYPTIC 0.5oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12081151814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>8477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667681222</id>
+    <published>2017-08-26T04:26:24-06:00</published>
+    <updated>2017-08-26T04:26:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/stephan-stay-smooth-shave-cream-16oz-id-3905"/>
+    <title>Stephan Stay Smooth Shave Cream 16oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/stephanstaysmoothcopy.jpg?v=1504329449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stephan Stay Smooth Shave Cream 16oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667681222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>3905</s:sku>
+      <s:grams>435</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667665862</id>
+    <published>2017-08-26T04:23:59-06:00</published>
+    <updated>2017-08-26T04:23:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/styptic-powder-id-3923"/>
+    <title>Styptic Powder</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/L9502copy.jpg?v=1504329466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Styptic Powder</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667665862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>3923</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667627974</id>
+    <published>2017-08-26T04:17:22-06:00</published>
+    <updated>2017-08-26T04:17:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/latherking-cleaner-no63-8oz-id-3912"/>
+    <title>Latherking Cleaner No63 8oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/J1262LKcleanercopy.jpg?v=1504328650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Latherking Cleaner No63 8oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667627974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3912</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667611462</id>
+    <published>2017-08-26T04:13:33-06:00</published>
+    <updated>2017-08-26T04:13:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/latherking-soap-concentrate-liquid-shave-cream-8oz-id-3911"/>
+    <title>Latherking Soap Concentrate Liquid Shave Cream 8oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/J1267copy.jpg?v=1504328655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Latherking Soap Concentrate Liquid Shave Cream 8oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667611462</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>3911</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666728390</id>
+    <published>2017-08-26T01:17:42-06:00</published>
+    <updated>2017-08-26T01:17:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/plastic-fold-up-razor-straight-id-7319"/>
+    <title>Plastic Fold Up Razor Straight</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/foldup_copy_eeb7b2e8-4f84-4886-804b-7008e4d57249.jpg?v=1504329009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Plastic Fold Up Razor Straight</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666728390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666722566</id>
+    <published>2017-08-26T01:15:13-06:00</published>
+    <updated>2017-08-26T01:15:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/treet-platinum-razor-blade-200-ct-id-6241"/>
+    <title>Treet Platinum Razor Blade 200 ct</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/treet.jpg?v=1504329516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b> </b>20 packs of 10 double edge razor blades. Made in Pakistan.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666722566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>6241</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+</feed>

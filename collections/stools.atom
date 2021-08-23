@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/stools.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2018-01-03T12:32:45-07:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667880902</id>
+    <published>2018-01-03T12:32:45-07:00</published>
+    <updated>2018-01-03T12:32:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bs04-saddle-stool-black-id-7624"/>
+    <title>BS04 Saddle Stool Black</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/saddle-stool.jpg?v=1527386251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Adjustable height from 19 - 23 inches</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667880902</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>7624</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667869574</id>
+    <published>2018-01-03T12:32:45-07:00</published>
+    <updated>2018-01-03T12:32:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bs01-massage-aesthetics-stool-tall-black-id-3611"/>
+    <title>BS01 Massage Aesthetics Stool Tall Round Cushion</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/blacktechstool.jpg?v=1527386250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Swivel Stool: Seat Size: Dia.33cm;Foam cushion:10cm Comes in 3 colors, quality vinyl and smooth rolling.  Adjustable gas hydraulic. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667869574</id>
+      <title>Black</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>3611</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667869574</id>
+      <title>White</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>8653</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667869574</id>
+      <title>Pink</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>3833</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

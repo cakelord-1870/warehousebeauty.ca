@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/post-lash-care.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2019-09-20T10:58:01-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4118284173390</id>
+    <published>2019-09-20T10:58:01-06:00</published>
+    <updated>2019-09-20T10:58:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/normal-saline-250-ml-bottle"/>
+    <title>NORMAL SALINE 250 ML BOTTLE</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/saline.jpg?v=1568998991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4118284173390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4118273458254</id>
+    <published>2019-09-20T10:58:01-06:00</published>
+    <updated>2019-09-20T10:58:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blue-gel-debonder-korea-glue-remover"/>
+    <title>Blue Gel Debonder [Korea Glue Remover]</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/debonder.png?v=1568998738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4118273458254</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688380230</id>
+    <published>2017-08-29T00:18:54-06:00</published>
+    <updated>2017-08-29T00:18:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/korea-eyelash-gel-remover-15g"/>
+    <title>Korea Eyelash Gel Remover 15g</title>
+    <s:type>remover</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/Korea_gel_remover.jpg?v=1504329485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>remover<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lash remover dissolves the glue allowing removal of the lashes. Low burn formula.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688380230</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688378310</id>
+    <published>2017-08-29T00:18:08-06:00</published>
+    <updated>2017-08-29T00:18:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/disposable-mascara-wand-50ct"/>
+    <title>Disposable Mascara Wand 50ct</title>
+    <s:type>mascara wand</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/pinkmasc.jpg?v=1527386331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>mascara wand<br>
+        <strong>Price: </strong>
+            7.99 - 49.00
+            <a href="https://warehousebeauty.ca/products/disposable-mascara-wand-50ct">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disposable mascara wands for brows and eyelashes. 50 pieces per bag, available in Pink or Black end. Color may vary depending on stock.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688378310</id>
+      <title>Pink / 1 Bag</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688378310</id>
+      <title>Pink / 10 Bags</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688378310</id>
+      <title>Black / 1 Bag</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688378310</id>
+      <title>Black / 10 Bags</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688378118</id>
+    <published>2017-08-29T00:18:06-06:00</published>
+    <updated>2017-08-29T00:18:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/silicon-mascara-wand-pink-50-pcs"/>
+    <title>Silicon Mascara Wand Pink 50 pcs</title>
+    <s:type>mascara wand</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/siliconmasc.jpg?v=1504329283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>mascara wand<br>
+        <strong>Price: </strong>
+            9.99 - 79.00
+            <a href="https://warehousebeauty.ca/products/silicon-mascara-wand-pink-50-pcs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Special silicone ended disposable mascara wands. Ball end type, 50pcs per bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688378118</id>
+      <title>1 Bag</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688378118</id>
+      <title>10 Bags</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688354822</id>
+    <published>2017-08-29T00:08:23-06:00</published>
+    <updated>2017-08-29T00:08:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blink-crystal-drop-coating-mascara-brush-7ml"/>
+    <title>Blink Crystal Drop Coating (Mascara Brush) 7ml</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4163.jpg?v=1527386241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clear coating sealant for eyelash extensions. Gives lashes shine. Apply after lashes have been completed, can be used daily.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688354822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688353862</id>
+    <published>2017-08-29T00:07:55-06:00</published>
+    <updated>2017-08-29T00:07:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bl-md-advanced-special-lash-growth-tonic"/>
+    <title>BL MD Advanced Special Lash Growth Tonic</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4164.jpg?v=1527386214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in Korea, BL lash growth serum. 5.6ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688353862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688351238</id>
+    <published>2017-08-29T00:07:20-06:00</published>
+    <updated>2017-08-29T00:07:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/blink-black-diamond-coating-sealant"/>
+    <title>Blink Black Diamond Coating Sealant</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4168.jpg?v=1527386241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mascara type end, black color coating sealant. Gives a thicker look after extensions. Can be used daily.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688351238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

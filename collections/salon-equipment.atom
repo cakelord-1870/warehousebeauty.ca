@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/salon-equipment.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2018-04-19T13:31:47-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12138111750</id>
+    <published>2018-04-19T13:31:47-06:00</published>
+    <updated>2018-04-19T13:31:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dermaroller-silver-titanium-540-needles-0-50mm-id-8558"/>
+    <title>Dermaroller Silver Titanium 540 Needles 0.50mm</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/dermaroller.JPG?v=1527386319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The roller effectively treats signs of ageing, pigmentation, sagging, enlarged pores and lost radiance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12138111750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>8558</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12138108550</id>
+    <published>2017-10-13T10:11:04-06:00</published>
+    <updated>2017-10-13T10:11:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dermapen-microneedle-system-dr-pen-id-8559"/>
+    <title>Dermapen Microneedle System Dr.Pen</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/dr.pen.jpg?v=1527386318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Unlike the conventional skin treatment remedies, you do not have to spend a fortune on the derma pen. The sharp needles on the derma pen will create miniscule pores on the uppermost layer of the skin. This in turn will enhance collagen production and will replace dead skin tissues with new skin cells. One of the greatest advantages of using the derma pen is that you do not have to wait for long to see visible and better results. It is easy to use the derma pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12138108550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>8559</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688365958</id>
+    <published>2017-08-29T00:13:20-06:00</published>
+    <updated>2017-08-29T00:13:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/led-mangifying-lamp"/>
+    <title>LED Mangifying Lamp</title>
+    <s:type>equipment</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/ledmag.jpg?v=1504329081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>equipment<br>
+        <strong>Price: </strong>
+            109.00 - 149.00
+            <a href="https://warehousebeauty.ca/products/led-mangifying-lamp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Diopter LED magnifying lamp. With or without stand.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688365958</id>
+      <title>With Stand</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688365958</id>
+      <title>Without Stand</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675733062</id>
+    <published>2017-08-27T09:23:39-06:00</published>
+    <updated>2017-08-27T09:23:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/extra-hose-for-microdermabrasion-machine-id-8289"/>
+    <title>Extra hose for microdermabrasion machine</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4206.jpg?v=1504329162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Extra hose for microdermabrasion machine</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675733062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>8288</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674681926</id>
+    <published>2017-08-27T02:58:49-06:00</published>
+    <updated>2017-08-27T02:58:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bailey-aluminium-chemical-service-tray-id-3617"/>
+    <title>Aluminium Chemical Rolling Service Tray</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/alumtray.jpg?v=1527384837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<b></b>This is a wonderful service tray to have for any salon. It features an easy to clean aluminum stain resistant finish tray, a rolling sturdy black stand, and low center of gravity wide base for no tipping. - Adjustable height: 27”- 42.5”- Tray surface: 13” x 18”</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674681926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>3617</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667814150</id>
+    <published>2017-08-26T04:49:32-06:00</published>
+    <updated>2017-08-26T04:49:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/9pc-microdermabrasion-diamond-head-id-7448"/>
+    <title>9pc Microdermabrasion diamond head</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/gp9.jpg?v=1527384822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">9pc Microdermabrasion diamond head</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667814150</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>7448</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667808326</id>
+    <published>2017-08-26T04:48:38-06:00</published>
+    <updated>2017-08-26T04:48:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/tool-autoclave-disinfecting-sterilizer-au-9009-id-7725"/>
+    <title>Tool Autoclave Disinfecting Sterilizer AU-9009</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/AU-9009.jpg?v=1504329505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tool Autoclave Disinfecting Sterilizer AU-9009</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667808326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku>7725</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667144454</id>
+    <published>2017-08-26T02:46:02-06:00</published>
+    <updated>2017-08-26T02:46:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/high-frequency-machine-au-808-id-7723"/>
+    <title>High Frequency Machine AU-808</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/AU-808_grande_9aa550b3-902c-44a5-81e6-9a547b46f5a3.jpg?v=1504329425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">High Frequency Machine AU-808</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667144454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku>7723</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667136454</id>
+    <published>2017-08-26T02:40:35-06:00</published>
+    <updated>2017-08-26T02:40:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dry-heat-sterilizer-id-8339"/>
+    <title>Dry Heat Sterilizer</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/magic-sterilizer2.png?v=1527386336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dry Heat Sterilizer</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667136454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku>8339</s:sku>
+      <s:grams>3500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11667125318</id>
+    <published>2017-08-26T02:36:07-06:00</published>
+    <updated>2017-08-26T02:36:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/50pcs-microdermabrasion-filter-11mm-id-7456"/>
+    <title>50pcs Microdermabrasion Filter 11mm</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/scraperpusher_9e05da56-ea86-43c6-b868-c178857a25af.jpg?v=1527384808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">50pcs Microdermabrasion Filter 11mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11667125318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>7456</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

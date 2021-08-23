@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/bobby-pins-clips-pins.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2017-08-27T03:40:18-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674878854</id>
+    <published>2017-08-27T03:40:18-06:00</published>
+    <updated>2017-08-27T03:40:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/2-black-hair-pins-1lb-id-872"/>
+    <title>2&quot; Black Hair Pins 1lb</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/100_0846_grande_b69f0e40-f8eb-4361-8a79-51dbfb66d307.jpg?v=1527384775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2" Black Hair Pins 1lb</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674878854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>872</s:sku>
+      <s:grams>480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674874438</id>
+    <published>2017-08-27T03:39:13-06:00</published>
+    <updated>2017-08-27T03:39:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/clips-steel-all-purpose-curl-10401-id-3726"/>
+    <title>Clips Steel All Purpose Curl 10401</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_2306_grande_c14c3239-9328-4b73-8081-a26c611efcdc.JPG?v=1527386281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Clips Steel All Purpose Curl 10401</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674874438</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>3726</s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674870406</id>
+    <published>2017-08-27T03:37:40-06:00</published>
+    <updated>2017-08-27T03:37:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/clips-steel-single-prong-curl-10460-id-3727"/>
+    <title>Clips Steel Single Prong Curl 10460</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/beardthign2_2485db6f-af38-4c9f-b006-b6b186950531.JPG?v=1527386281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Clips Steel Single Prong Curl 10460</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674870406</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.59</s:price>
+      <s:sku>3727</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674856902</id>
+    <published>2017-08-27T03:35:24-06:00</published>
+    <updated>2017-08-27T03:35:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/jumbo-roller-pin-black-75ct-2-5-8-id-871"/>
+    <title>Jumbo Roller Pin Black 75ct 2 5/8\&quot;</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/jumbppin2.jpg?v=1504329470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Jumbo Roller Pin Black 75ct 2 5/8\"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674856902</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>871</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674829702</id>
+    <published>2017-08-27T03:28:44-06:00</published>
+    <updated>2017-08-27T03:28:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/new-black-perfect-hair-clip-bc-id-7736"/>
+    <title>New Black Perfect Hair Clip BC</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3711.jpg?v=1504329391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">New Black Perfect Hair Clip BC</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674829702</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>7736</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674821382</id>
+    <published>2017-08-27T03:27:27-06:00</published>
+    <updated>2017-08-27T03:27:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/trace-less-hair-ring-3pk-black-id-8127"/>
+    <title>Trace Less Hair Ring 3pk</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4131.jpg?v=1504329508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Trace Less Hair Ring 3pk. Each 3 pack of hair bands are in a small clear plastic box.</p>
+<p>Black, Purple, Pink, Brown. Clear</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674821382</id>
+      <title>Black</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674821382</id>
+      <title>Pink</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674821382</id>
+      <title>Brown</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674821382</id>
+      <title>Clear</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674821382</id>
+      <title>Grey</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674821382</id>
+      <title>Red</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674821382</id>
+      <title>Blue</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

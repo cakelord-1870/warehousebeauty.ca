@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/treatments.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2021-01-05T12:19:55-07:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666676486</id>
+    <published>2021-01-05T12:19:55-07:00</published>
+    <updated>2021-01-05T12:19:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/omniplex-n-3-miracle-at-home-150ml-id-7698"/>
+    <title>Omniplex n.3 MIRACLE AT HOME 150ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/MiracleAtHome.jpg?v=1504329421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">At home hair treatment, part of the OMNIPLEX set.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666676486</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>7698</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11666672070</id>
+    <published>2021-01-05T12:19:48-07:00</published>
+    <updated>2021-01-05T12:19:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/omniplex-salon-kit-500ml-id-7547"/>
+    <title>OMNIPLEX SALON KIT 500ML</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/omni_76a9e485-2644-42ce-b119-ef5cd6f5edde.jpg?v=1504329426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>SALON KIT Bond Maker 1 x 1 500 ml 1 x 500 ml 2 Bond Reinforcer visit www.omniplex.it</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11666672070</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">130.00</s:price>
+      <s:sku>7547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675673094</id>
+    <published>2017-08-27T09:01:15-06:00</published>
+    <updated>2017-08-27T09:01:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/otto-keunis-bulgarian-rose-hair-oil-100ml-id-7716"/>
+    <title>Otto Keunis Bulgarian Rose Hair Oil 100ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/scraperpusher_b4b1af6d-c77b-4c02-8bc8-6cb6ef5f3351.jpg?v=1504329446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Otto Keunis Bulgarian Rose Hair Oil 100ml</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675673094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>7716</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675667078</id>
+    <published>2017-08-27T08:58:34-06:00</published>
+    <updated>2017-08-27T08:58:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/refresh-clean-breeze-dry-shampoo-id-8115"/>
+    <title>Refresh Clean Breeze Dry Shampoo</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cleanbreeze.jpg?v=1504329202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Refresh Clean Breeze Dry Shampoo</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675667078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>8115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675656198</id>
+    <published>2017-08-27T08:55:21-06:00</published>
+    <updated>2017-08-27T08:55:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/qod-fiber-complex-bond-builder-1-120ml-id-7714"/>
+    <title>QOD Fiber Complex Bond Builder #1 120ml</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/number1qod.jpg?v=1504329128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">QOD Fiber Complex Bond Builder #1 120ml</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675656198</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>7714</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+</feed>

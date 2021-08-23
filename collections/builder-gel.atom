@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/builder-gel.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-07-17T09:48:27-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11669123974</id>
+    <published>2020-07-17T09:48:27-06:00</published>
+    <updated>2020-07-17T09:48:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/3-32-mandrel-sanding-band-15-pc-box-id-944"/>
+    <title>3/32 Mandrel sanding band 10x</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_0409_grande_322d4564-c710-497f-abad-197548798b0e.jpg?v=1527384788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For use with small size sanding bands. They do not come with the box.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669123974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>944</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11669011782</id>
+    <published>2020-06-14T13:26:51-06:00</published>
+    <updated>2020-06-14T13:26:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bebeauty-nail-glue-tube-with-label-2gr-id-7784"/>
+    <title>BeBeauty Nail GLUE TUBE 2 grams</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/nail_glue.jpg?v=1531866826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BeBeauty Nail GLUE TUBE 2 grams, single use tube. No label on this item. Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11669011782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku>7784</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668978182</id>
+    <published>2020-05-06T10:36:18-06:00</published>
+    <updated>2020-05-06T10:36:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/pure-line-clear-builder-gel-50g-id-7465"/>
+    <title>Pure Line Clear Builder Gel 50g</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/pure_line_clear.jpg?v=1504329101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pure Line Clear Builder Gel 50g</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668978182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>7465</s:sku>
+      <s:grams>111</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668959622</id>
+    <published>2018-03-08T14:59:20-07:00</published>
+    <updated>2018-03-08T14:59:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cnd-brisa-clear-gel-1-5oz-id-894"/>
+    <title>CND Brisa Scuplting UV Gel 1.5oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/brisaclear.jpg?v=1527386283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CND Brisa Sculpting Gels offer the versatility of sculpting on a form or creating overlays on fingers and toes. Hypo-allergenic and odorless. 1.5 oz.</p>
+<p>Clear,Pure White,Warm Pink OPQ,Warm Pink Semi,Cool Pink,Neutral Pink,Pure Pink</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668959622</id>
+      <title>Clear</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>894</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668959622</id>
+      <title>Pure White</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>149</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668959622</id>
+      <title>Warm Pink OPQ</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>8108</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668959622</id>
+      <title>Neutral Pink OPQ</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>7412</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668959622</id>
+      <title>Pure Pink</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>550</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668959622</id>
+      <title>Warm Pink Semi</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>6500</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668959622</id>
+      <title>Cool Pink</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>7413</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11679648838</id>
+    <published>2018-01-25T13:22:23-07:00</published>
+    <updated>2018-01-25T13:22:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/1-8-mandrel-tool-bit-id-8321"/>
+    <title>1/8 Mandrel Tool Bit</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/scraperpusher_24b6af85-81b1-4aaf-b3f3-c4e3668b4961.jpg?v=1527384762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1/8 Mandrel Tool Bit ID #8321</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11679648838</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku>8321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11693969670</id>
+    <published>2017-08-29T22:57:33-06:00</published>
+    <updated>2017-08-29T22:57:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bc-premium-carbide-id-993"/>
+    <title>BC Premium Carbide</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/carbidetools.jpeg?v=1527384885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Great for smoothing and removing gel and acrylic. Premium quality carbide tool.</p>
+<p>Stem Sizes: 3/32 (small) and 1/8 Large</p>
+<p>Barrel Sizes: Small and Large</p>
+<p>Sharpness: Fine, Medium, Coarse, Extra Coarse, XXC (extra extra coarse), 3XC (Extremely Coarse)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Small / Fine</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Small / Medium</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Small / Coarse</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Small / Extra Coarse</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Small / XXC</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Small / 3XC</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Large / Fine</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Large / Medium</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Large / Coarse</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Large / Extra Coarse</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Large / XXC</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Large / 3XC</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>3/32 / Under Nail Cleaner / Medium</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Small / Fine</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Small / Medium</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Small / Coarse</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Small / Extra Coarse</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Small / XXC</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Small / 3XC</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Large / Fine</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Large / Medium</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Large / Coarse</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Large / Extra Coarse</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Large / XXC</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Large / 3XC</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11693969670</id>
+      <title>1/8 / Under Nail Cleaner / Medium</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>993</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668969606</id>
+    <published>2017-08-26T08:03:45-06:00</published>
+    <updated>2017-08-26T08:03:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/pure-line-pure-pink-gel-50g-id-7467"/>
+    <title>Pure Line Pure Pink Gel 50g</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/purelinpink.jpg?v=1504329106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pure Line Pure Pink Gel 50g</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668969606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>7467</s:sku>
+      <s:grams>111</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11668964614</id>
+    <published>2017-08-26T08:02:42-06:00</published>
+    <updated>2017-08-26T08:02:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/pure-line-white-builder-gel-50g-id-7466"/>
+    <title>Pure Line White Builder Gel 50g</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/pure_line_white.jpg?v=1504329109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pure Line White Builder Gel 50g</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11668964614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>7466</s:sku>
+      <s:grams>111</s:grams>
+    </s:variant>
+  </entry>
+</feed>

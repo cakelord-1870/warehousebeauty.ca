@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/remy-hair-extensions.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2017-08-27T09:16:49-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11675723846</id>
+    <published>2017-08-27T09:16:49-06:00</published>
+    <updated>2017-08-27T09:16:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/walker-extension-tape-1cm-3yard-roll-usa-id-7385"/>
+    <title>WALKER Extension Tape 1cm*3Yard Roll USA</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/walkertape_e7742ce3-5f21-403e-a3e3-6922d8d9c081.jpg?v=1504329589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">WALKER Extension Tape 1cm*3Yard Roll USA</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11675723846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>7384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674593926</id>
+    <published>2017-08-27T02:42:54-06:00</published>
+    <updated>2017-08-27T02:42:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/so-cap-hair-extensions-tape-in-20-1-id-3823"/>
+    <title>So Cap Hair Extensions Tape in 20&quot;</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/17.png?v=1504329329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00 - 80.00
+            <a href="https://warehousebeauty.ca/products/so-cap-hair-extensions-tape-in-20-1-id-3823">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Weight:2.5gram/piece, 20piece a pack, 50gram/pack NOTE:Each full head need 2 pack Tap Quality: USA Tape Strong, No shedding, easy to remove. 20" long</p>
+<p>#1,#2,#4,#6,#8,#10,#22,#60</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674593926</id>
+      <title>#1</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>3823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674593926</id>
+      <title>#2</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>3823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674593926</id>
+      <title>#4</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>3823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674593926</id>
+      <title>#6</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>3823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674593926</id>
+      <title>#8</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>3823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674593926</id>
+      <title>#10</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>3823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674593926</id>
+      <title>#22</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>3823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674593926</id>
+      <title>#60</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>3823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674524934</id>
+    <published>2017-08-27T02:28:37-06:00</published>
+    <updated>2017-08-27T02:28:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/large-brown-clip-ss-id-3820"/>
+    <title>Large Brown Clip SS</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/elitecomb_543ee2c5-93de-4d4e-b37c-e9385f7b4826.JPG?v=1504328629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Large Brown Clip SS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674524934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.50</s:price>
+      <s:sku>3820</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11674518726</id>
+    <published>2017-08-27T02:26:00-06:00</published>
+    <updated>2017-08-27T02:26:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/small-brown-clip-ss-id-3821"/>
+    <title>Small Brown Clip SS</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/elitecomb_f0135f62-82f7-45cd-8ddb-2f194e7716be.JPG?v=1504329312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Small Brown Clip SS</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11674518726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.30</s:price>
+      <s:sku>3821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

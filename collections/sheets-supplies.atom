@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/sheets-supplies.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2019-07-16T15:54:15-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671685062</id>
+    <published>2019-07-16T15:54:15-06:00</published>
+    <updated>2019-07-16T15:54:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/graham-drape-sheet-2-ply-40x60-id-8103"/>
+    <title>Graham Drape Sheet 2 Ply 40&quot;x60&quot;</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/grahamdrap.jpg?v=1504329290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Graham Drape Sheet 2 Ply 40"x60"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671685062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>8103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671691718</id>
+    <published>2018-12-06T11:32:17-07:00</published>
+    <updated>2018-12-06T11:32:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/fleece-face-rest-cover-id-7929"/>
+    <title>Fleece Face Rest Cover</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/fleeceheadrestcover.jpg?v=1504329253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fleece Face Rest Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671691718</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7929</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671668102</id>
+    <published>2017-08-26T16:28:49-06:00</published>
+    <updated>2017-08-26T16:28:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bl-p3-black-semi-round-bolster-id-3832"/>
+    <title>BL-P3 Black Semi Round Bolster</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/halfroundbolster.jpg?v=1527386214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BL-P3 Black Semi Round Bolster</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671668102</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>3832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671659846</id>
+    <published>2017-08-26T16:26:59-06:00</published>
+    <updated>2017-08-26T16:26:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/fleece-pad-sheet-cover-id-7932"/>
+    <title>FLEECE PAD SHEET cover</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/fleecepas_739964eb-1473-4874-b96b-b119d963da68.jpg?v=1504329255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>This is the pad only. No head rest cover included. fits tables 28-32" wide</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671659846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>7932</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671466310</id>
+    <published>2017-08-26T15:44:24-06:00</published>
+    <updated>2017-08-26T15:44:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/polycotton-face-rest-cover-head-rest-id-7619"/>
+    <title>Massage Table Face Rest Cover Horseshoe</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/head_rest_cover.JPG?v=1504329272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00 - 5.00
+            <a href="https://warehousebeauty.ca/products/polycotton-face-rest-cover-head-rest-id-7619">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Massage Table head rest cover. Flannel or Polycotton. Horseshoe style.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671466310</id>
+      <title>Flannel</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>3615</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671466310</id>
+      <title>Fleece</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>7929</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671466310</id>
+      <title>Polycotton</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>7619</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

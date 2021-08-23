@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/microblade-accessories.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2018-05-04T12:00:17-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1338449887310</id>
+    <published>2018-05-04T12:00:17-06:00</published>
+    <updated>2018-05-04T12:00:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/pigment-cup-holder-8919"/>
+    <title>Pigment Cup Holder 8919</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_5346.JPG?v=1525456875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hold various sizes of small pigment cups for tattoo or microblade. Black plastic.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1338449887310</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>8919</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1317017911374</id>
+    <published>2018-03-31T11:19:02-06:00</published>
+    <updated>2018-03-31T11:19:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/dental-bib-chain-plastic"/>
+    <title>Dental Bib Chain Plastic</title>
+    <s:type></s:type>
+    <s:vendor>Pro Dental</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/dentalbibchairn1.jpg?v=1527386317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pro Dental<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wont tangle. Alligator clips hold strong. Colors may vary, current color is yellow.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1317017911374</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>8592</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/77809156102</id>
+    <published>2017-12-16T15:14:14-07:00</published>
+    <updated>2017-12-16T15:14:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/microbladering"/>
+    <title>Microblade Pigment Ring 100pcs</title>
+    <s:type></s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/Microbladecup.jpg?v=1513462455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deeper well for microblade pigments. 100pcs per bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/77809156102</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/12138116998</id>
+    <published>2017-10-13T10:20:58-06:00</published>
+    <updated>2017-10-13T10:20:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/disposable-microblade-tattoo-pigment-cup-12mm-1000pcs"/>
+    <title>Disposable Microblade Tattoo Pigment Cup 12mm 1000pcs</title>
+    <s:type></s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/100x-14mm-Large-Disposable-Plastic-Pigment-Supplier-Tattoo-font-b-Ink-b-font-font-b-Cups.jpg?v=1527386332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1000pcs of disposable ink cups, 12mm in diameter. Great of microblading.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/12138116998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11697271046</id>
+    <published>2017-08-30T16:23:00-06:00</published>
+    <updated>2017-08-30T16:23:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/numbing-cream"/>
+    <title>Numbing Cream</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Numbing Cream for Microblading. </p>
+<p>30g Packaging</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11697271046</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688371846</id>
+    <published>2017-08-29T00:15:39-06:00</published>
+    <updated>2017-08-29T00:15:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/stainless-steel-microblading-pen-autoclavable"/>
+    <title>Stainless Steel Microblading Pen AUTOCLAVABLE</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/autoclavepen.jpg?v=1504329411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stainless steel microblade pen. For use in autoclave sterilizers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688371846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688371654</id>
+    <published>2017-08-29T00:15:28-06:00</published>
+    <updated>2017-08-29T00:15:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/aluminum-microblade-pen"/>
+    <title>Aluminum Microblade pen</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3721.jpg?v=1527384837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Standard microblade pen. Several colors available, made of aluminum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688371654</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688371654</id>
+      <title>Silver</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688371654</id>
+      <title>Red</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688371014</id>
+    <published>2017-08-29T00:15:11-06:00</published>
+    <updated>2017-08-29T00:15:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/crystal-microblade-pen"/>
+    <title>Crystal Microblade Pen</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/crystal_micropen.jpg?v=1527386304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stylish microblade pen filled with crystals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688371014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688370694</id>
+    <published>2017-08-29T00:15:02-06:00</published>
+    <updated>2017-08-29T00:15:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/microblade-practice-mannequin-head"/>
+    <title>Microblade Practice Mannequin Head</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/manheadmicro_84a1c8cf-8819-4c25-a983-b74c84c23d06.jpg?v=1504329288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            9.99 - 29.99
+            <a href="https://warehousebeauty.ca/products/microblade-practice-mannequin-head">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lies flat and is stable for working on. Has replaceable skins that cover the whole head (sold separate)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688370694</id>
+      <title>Whole Head</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688370694</id>
+      <title>Replacement Skin</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku/>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688369798</id>
+    <published>2017-08-29T00:14:37-06:00</published>
+    <updated>2017-08-29T00:14:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/disposable-apron-100pcs"/>
+    <title>Disposable Apron 100pcs</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/tattooapron.jpg?v=1527386326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whole front bib, disposable, 100pcs per package.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688369798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688369670</id>
+    <published>2017-08-29T00:14:35-06:00</published>
+    <updated>2017-08-29T00:14:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/clear-microblade-ruler-eyebrow-tool"/>
+    <title>Clear Microblade Ruler Eyebrow Tool</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cleareyebrowtool.jpg?v=1527386279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plastic eyebrow measuring tool.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688369670</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688369542</id>
+    <published>2017-08-29T00:14:32-06:00</published>
+    <updated>2017-08-29T00:14:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/microblade-starter-kit-with-case"/>
+    <title>Microblade Starter Kit with Case</title>
+    <s:type></s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/starterkit.jpg?v=1504329289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 Microblade Pigments (Light Brown, Brown, Light Ash Brown, Black)</p>
+<p>Microblading Pen, Eyebrow Pen, Ruler, 5x Microblade 12CF, 5x 14U, Misty Eybrow needle 10x, Ring Cup, Practice Skin 2x, Carry case.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688369542</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688369414</id>
+    <published>2017-08-29T00:14:31-06:00</published>
+    <updated>2017-08-29T00:14:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/microblade-vernier-caliper-measure-tool"/>
+    <title>Microblade Vernier Caliper Measure Tool</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/caliper.jpg?v=1504329292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grey plastic caliper for measurements. Discounts available for over 50+ pieces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688369414</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku/>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688369350</id>
+    <published>2017-08-29T00:14:29-06:00</published>
+    <updated>2017-08-29T00:14:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/purple-surgical-marking-skin-pen-microblade"/>
+    <title>Purple Surgical Marking Skin Pen Microblade</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3722.jpg?v=1504329122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            2.49 - 199.00
+            <a href="https://warehousebeauty.ca/products/purple-surgical-marking-skin-pen-microblade">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thin tip fully sealed microbladeing skin marking pen. Comes with ruler.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688369350</id>
+      <title>1Pcs</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688369350</id>
+      <title>100pcs</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku/>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688360774</id>
+    <published>2017-08-29T00:10:52-06:00</published>
+    <updated>2017-08-29T00:10:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/brow-stencil-sticker-ruler-50pcs"/>
+    <title>Brow Stencil Sticker Ruler 50pcs</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/stickerbrow50.jpg?v=1527386249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brow measuring sticker, apply to the clients face. 50pcs per pack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688360774</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688360582</id>
+    <published>2017-08-29T00:10:40-06:00</published>
+    <updated>2017-08-29T00:10:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/surgical-marker-pen-remover"/>
+    <title>Surgical Marker Pen Remover</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/surgicalmarkerremover.jpg?v=1504329480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to remove the purple surgical marker pen ink from skin. 1 Pen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688360582</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688359750</id>
+    <published>2017-08-29T00:10:25-06:00</published>
+    <updated>2017-08-29T00:10:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/sharps-container-3qt"/>
+    <title>Sharps Container 3Qt</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/sharps3qt.jpg?v=1504329264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large sharps container. 3Qt size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688359750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku/>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688359558</id>
+    <published>2017-08-29T00:10:23-06:00</published>
+    <updated>2017-08-29T00:10:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/sharps-container-1qt"/>
+    <title>Sharps Container 1QT</title>
+    <s:type>microblades</s:type>
+    <s:vendor>Cheap Lash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/sharps1.jpg?v=1504329262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheap Lash<br>
+        <strong>Type: </strong>microblades<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small size sharps container. 1Qt</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688359558</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku/>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11688358982</id>
+    <published>2017-08-29T00:10:02-06:00</published>
+    <updated>2017-08-29T00:10:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/3-ply-blue-dental-bibs-13-x-18-30pcs-pk"/>
+    <title>3-Ply Blue Dental Bibs 13&apos;&apos; x 18&apos;&apos;  125pcs/pk</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Pro Dental</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/dentalbib2.jpg?v=1527384788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pro Dental<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.00 - 480.00
+            <a href="https://warehousebeauty.ca/products/3-ply-blue-dental-bibs-13-x-18-30pcs-pk">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue dental bibs.  125pcs per pack. 13'' x 18'' Disposable. Excellent quality bibs for dental use or salon procedures.</p>
+<ul>
+<li>1 Pack $20 ($0.16 per bib)</li>
+<li>10 Packs $180 ($0.144 per bib)</li>
+<li>30 Packs $480 ($0.128 per bib)</li>
+</ul>
+<p>Need more than whats available? Contact us for a quote info@warehousebeauty.ca</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688358982</id>
+      <title>Dental Bibs</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>8609</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688358982</id>
+      <title>Dental Bib 10 packs</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>8609</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11688358982</id>
+      <title>Dental Bib 30 packs</title>
+      <s:price currency="CAD">480.00</s:price>
+      <s:sku>8609</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

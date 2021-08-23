@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/files.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-09-09T10:30:54-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/221475962886</id>
+    <published>2020-09-09T10:30:54-06:00</published>
+    <updated>2020-09-09T10:30:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/straight-nail-files-50pcs-zebra-100-180"/>
+    <title>Straight Nail Files 50pcs Zebra 100/180</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/100-180-zebra-straight2_470x_fa22a73a-c7bd-4e4c-ae88-f843c8adf3a4.jpg?v=1521387637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Professional quality for artificial or real nail. Premium zebra paper lasts longer. 50pcs per pack excellent nail files for any salon. 100 (medium)/180 (fine) </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/221475962886</id>
+      <title>100/180</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>8729</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4788087488590</id>
+    <published>2020-07-16T12:24:47-06:00</published>
+    <updated>2020-07-16T12:24:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/copy-of-straight-nail-files-50pcs-zebra-180-240"/>
+    <title>Straight Nail Files 50pcs Zebra 80/80</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_9750_e1b4aeab-41b5-4a75-bc2c-81992518c9c2.jpg?v=1594923877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Professional quality for artificial or real nail. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4788087488590</id>
+      <title>80/80</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>8728</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671216262</id>
+    <published>2020-07-16T12:06:13-06:00</published>
+    <updated>2020-07-16T12:06:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/nail-file-regular-50pcs-100-180-white-id-3494"/>
+    <title>Nail File Regular 50pcs 100/180 White</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_1436.JPG?v=1504329352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White grit 100/180 nail files. Regular round 40pcs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671216262</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>3494</s:sku>
+      <s:grams>792</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671250438</id>
+    <published>2020-07-16T11:38:35-06:00</published>
+    <updated>2020-07-16T11:38:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/180-180-nail-file-50-pack-id-666"/>
+    <title>180/180 Straight White Nail File 50 pack</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_0521i.jpg?v=1527384772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">180/180 Nail File 50 pack</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671250438</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>666</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/4162995748942</id>
+    <published>2019-09-25T09:21:10-06:00</published>
+    <updated>2019-09-25T09:21:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/copy-of-straight-nail-files-50pcs-zebra-100-180-or-180-240"/>
+    <title>Straight Nail Files 50pcs Zebra 180/240</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_9750.jpg?v=1569425550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Professional quality for artificial or real nail. Premium zebra paper lasts longer. 50pcs per pack excellent nail files for any salon. 180 (fine)/240 (extra fine)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/4162995748942</id>
+      <title>180/240</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>9420</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671245830</id>
+    <published>2019-09-19T15:12:35-06:00</published>
+    <updated>2019-09-19T15:12:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/80-80-white-extra-coarse-files-50-id-526"/>
+    <title>80/80 Straight White Extra Coarse Nail Files 50</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/scraperpusher_a6c78eff-7a65-4fb7-b645-612d16f389e6.jpg?v=1527384820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Pack of 50, White grit</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671245830</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>526</s:sku>
+      <s:grams>480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/214677716998</id>
+    <published>2019-01-29T15:47:06-07:00</published>
+    <updated>2019-01-29T15:47:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/banana-nail-file-50pcs-zebra-100-180"/>
+    <title>Banana Nail File 50pcs Zebra 100/180</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/100-180-zebra-banana2.jpg?v=1527384875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Banana Nail File 50pcs Zebra 100/180</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/214677716998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>8726</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/221533732870</id>
+    <published>2019-01-17T16:33:28-07:00</published>
+    <updated>2019-01-17T16:33:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/white-files-100-100-50pcs-straight-file"/>
+    <title>White Files 100/100 50pcs Straight File</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/100_100_white_file.JPG?v=1521388886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White grit straight shape files, 100/100 Medium grit. 50pcs per pack.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/221533732870</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>19</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/1337220759630</id>
+    <published>2018-05-02T17:01:22-06:00</published>
+    <updated>2018-05-02T17:01:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/straight-nail-file-50pcs-black-80-80-extra-coarse"/>
+    <title>Straight Nail File 50pcs Black 80/80 Extra Coarse</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/blackfile_2.JPG?v=1525302175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Excellent nail files. Black grit extra coarse 80/80.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/1337220759630</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>8872</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670629958</id>
+    <published>2017-08-26T12:56:09-06:00</published>
+    <updated>2017-08-26T12:56:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/mini-manicure-files-bc-50pcs-white-like-80-80-id-925"/>
+    <title>Mini Manicure Files BC 50pcs White 80/80</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/scraperpusher_532223c7-f845-4956-83cd-1d4b4f69e29a.jpg?v=1504329316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.50 - 280.00
+            <a href="https://warehousebeauty.ca/products/mini-manicure-files-bc-50pcs-white-like-80-80-id-925">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b></b>Pack of 50 small manicure files. 10cm long x 1.5cm wide files at approx 80 grit.</p>
+<p>50pcs per package</p>
+<p>1 case=100 packages (5000 files)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670629958</id>
+      <title>50pcs</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>925</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670629958</id>
+      <title>5000pcs</title>
+      <s:price currency="CAD">280.00</s:price>
+      <s:sku>925</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+</feed>

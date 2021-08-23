@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://warehousebeauty.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://warehousebeauty.ca/collections/manicure-buffers.atom"/>
+  <title>Warehouse Beauty </title>
+  <updated>2020-10-11T10:49:43-06:00</updated>
+  <author>
+    <name>Warehouse Beauty </name>
+  </author>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670533894</id>
+    <published>2020-10-11T10:49:43-06:00</published>
+    <updated>2020-10-11T10:49:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cnd-rescuerxx-0-5oz-id-6530"/>
+    <title>CND RescuerXx 0.5oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/rxx.jpg?v=1527386288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CND RescuerXx 0.5oz</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670533894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>6530</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670599558</id>
+    <published>2020-08-13T15:10:05-06:00</published>
+    <updated>2020-08-13T15:10:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cnd-scrubfresh-8oz-nail-surface-cleaner-id-1759"/>
+    <title>CND Scrubfresh 8oz Nail Surface Cleaner</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cndscrubfresh8.jpg?v=1527386289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>ScrubFresh™ cleans and temporarily dehydrates the nail plate, to improve adhesion, reduce lifting and extend the life of the service.</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670599558</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>1759</s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670496454</id>
+    <published>2020-08-13T15:10:04-06:00</published>
+    <updated>2020-08-13T15:10:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/solar-oil-holiday-0-125oz-cnd-id-6683"/>
+    <title>Solar Oil Holiday 0.125oz CND</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/40oil.jpg?v=1504329371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Solar Oil Holiday 0.125oz CND ID #6683</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670496454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>6683</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670489670</id>
+    <published>2020-07-16T11:53:05-06:00</published>
+    <updated>2020-07-16T11:53:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/manicure-brush-with-handle-id-255"/>
+    <title>Manicure Brush with handle</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/255.jpg?v=1504329245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Excellent brush with handle for convenience</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670489670</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.50</s:price>
+      <s:sku>255</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671395142</id>
+    <published>2020-07-16T11:40:15-06:00</published>
+    <updated>2020-07-16T11:40:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/buffer-orange-foam-white-grit-1500pc-100-180-10000006278-id-316"/>
+    <title>Buffer ORANGE foam WHITE grit 1500pc 100/180 10000006278</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/miniwhitebuffer1500.jpg?v=1527386253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Buffer ORANGE foam WHITE grit 1500pc 100/180 10000006278</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671395142</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>316</s:sku>
+      <s:grams>1450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671318918</id>
+    <published>2019-09-19T15:23:35-06:00</published>
+    <updated>2019-09-19T15:23:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/buffer-orange-foam-white-grit-500pc-100-180-id-772"/>
+    <title>Buffer ORANGE foam WHITE grit 500pc 80/100</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/whitebufferslim.jpg?v=1527386253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Orange Foam white grit 2 way buffer. Slim disposable nail and toe block buffers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671318918</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>772</s:sku>
+      <s:grams>1475</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671259014</id>
+    <published>2019-01-17T16:30:47-07:00</published>
+    <updated>2019-01-17T16:30:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/bc-mini-1500-buffer-orange-white-id-7935"/>
+    <title>BC Mini 1500 Buffer Orange White</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_4247.JPG?v=1527384882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BC Mini 1500pcs Buffer Orange White</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671259014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>7935</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670519046</id>
+    <published>2019-01-14T10:08:12-07:00</published>
+    <updated>2019-01-14T10:08:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cnd-cuticleaway-cuticle-remover-6-oz-id-1760"/>
+    <title>CND CuticleAway Cuticle Remover 6 oz</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cuticleawaycnd.jpg?v=1527386283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>Apply for 1 minute and remove excess skin with an orange stick.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670519046</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>1760</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11671390406</id>
+    <published>2018-12-06T11:32:17-07:00</published>
+    <updated>2018-12-06T11:32:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/buffer-orange-white-grit-500pc-100-180-10000060292-id-517"/>
+    <title>Buffer ORANGE WHITE grit 500pc 100/180</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/3waywhite.jpg?v=1527386254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Buffer ORANGE WHITE grit 500pc 100/180 3 sided foam nail buffer</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11671390406</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku>517</s:sku>
+      <s:grams>2900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670541446</id>
+    <published>2018-05-18T11:59:33-06:00</published>
+    <updated>2018-05-18T11:59:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/2-x-2-nail-wipes-200shts-pkg-rayson-id-6261"/>
+    <title>2 X 2 NAIL WIPES 200SHTS/PKG Rayson</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/IMG_3884.JPG?v=1527384774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2 X 2 NAIL WIPES 200SHTS/PKG Rayson</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670541446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>6261</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/89784745990</id>
+    <published>2017-12-29T15:34:09-07:00</published>
+    <updated>2017-12-29T15:34:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cuticle-oil-pen-id-8600"/>
+    <title>Cuticle oil pen</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/7.jpg?v=1527386309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cuticle oil pen, mixed scents/colours</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/89784745990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>8600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670581574</id>
+    <published>2017-08-26T12:49:02-06:00</published>
+    <updated>2017-08-26T12:49:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/orange-wood-sticks-100-pack-id-8131"/>
+    <title>Orange wood sticks 100 pack</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/orangestick.jpg?v=1504329438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Orange wood sticks 100 pack</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670581574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>8131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670575942</id>
+    <published>2017-08-26T12:48:04-06:00</published>
+    <updated>2017-08-26T12:48:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/cuticle-oil-pineapple-1-gallon-id-76"/>
+    <title>Cuticle oil pineapple 1 gallon</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cuticlepinapple.jpg?v=1527386309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>A pineapple scented mineral oil used for cuticle care. Use a blotter or cotton and dab a small amount onto cuticles, massage in for moisturized soft little fingers.</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670575942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>76</s:sku>
+      <s:grams>3250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://warehousebeauty.ca/products/11670527174</id>
+    <published>2017-08-26T12:41:04-06:00</published>
+    <updated>2017-08-26T12:41:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://warehousebeauty.ca/products/arvi-cuticle-softener-cacee-gallon-id-3588"/>
+    <title>ARVI CUTICLE SOFTENER Cacee Gallon</title>
+    <s:type></s:type>
+    <s:vendor>Warehouse Beauty </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2270/1309/products/cutsofcacee.jpg?v=1527384863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Warehouse Beauty <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b></b>A great cuticle softener.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://warehousebeauty.ca/products/11670527174</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>3588</s:sku>
+      <s:grams>3900</s:grams>
+    </s:variant>
+  </entry>
+</feed>
